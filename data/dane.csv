@@ -1,0 +1,927 @@
+﻿Timestamp;UserId;Haslo;Kategoria;Dlugosc;Czas_s;Metoda;Bledy;Backspace;Hints;HintRatio;ThinkTime_ms;TypingSpeed_ms;CleanSolve
+2026-04-24T16:39:42.840Z;user1;CIA;polityka;3;2.5;manual;0;0;0;0;6163;528;true
+2026-04-24T16:39:55.651Z;user1;RĘCE;idiomy;4;7.6;manual;2;2;0;0;14046;989;true
+2026-04-24T16:40:02.433Z;user1;BACA;folklor;4;2.4;manual;1;1;0;0;26083;332;true
+2026-04-24T16:40:05.731Z;user1;DNO;słownikowe;3;1.7;manual;0;0;0;0;30019;635;true
+2026-04-24T16:40:15.511Z;user1;ŁZA;metafora;3;3.7;manual;0;0;0;0;37814;815;true
+2026-04-24T16:40:25.247Z;user1;PITT;film;4;1.8;manual;0;0;0;0;49442;384;true
+2026-04-24T16:41:20.946Z;user1;KALI;literatura;4;6;manual;0;0;3;0.75;100933;1567;false
+2026-04-24T16:41:32.952Z;user1;WDECH;biologia;5;5.9;manual;2;2;2;0.4;113043;517;false
+2026-04-24T17:21:30.571Z;user2;KRONOS;mitologia;6;54.6;manual;9;16;4;0.67;31073;1474;false
+2026-04-24T17:22:40.054Z;user2;AKIRA;film;5;63;manual;16;19;2;0.4;92111;1557;false
+2026-04-24T17:22:47.735Z;user2;KALI;literatura;4;2.1;manual;1;1;0;0;160702;238;true
+2026-04-24T17:23:16.479Z;user2;RĘCE;idiomy;4;17.1;manual;2;4;1;0.25;174411;1317;false
+2026-04-24T17:23:25.342Z;user2;CIA;polityka;3;5.3;manual;0;2;1;0.33;195129;752;false
+2026-04-24T17:23:43.432Z;user2;WDECH;biologia;5;3;manual;0;0;0;0;215446;572;true
+2026-04-24T17:23:48.599Z;user2;PITT;film;4;2.7;manual;0;0;0;0;220971;202;true
+2026-04-24T17:23:56.334Z;user2;DNO;słownikowe;3;5.7;manual;0;0;1;0.33;225666;920;false
+2026-04-24T17:24:11.408Z;user2;BACA;folklor;4;11.4;manual;3;4;1;0.25;235050;895;false
+2026-04-24T17:24:17.764Z;user2;ŁZA;metafora;3;4.4;manual;1;4;0;0;248418;394;true
+2026-04-24T17:25:08.158Z;user2;ZIARNO;przysłowia;6;44;manual;6;8;3;0.5;5232;1748;false
+2026-04-24T17:26:07.324Z;user2;MAKARONIZM;językoznawstwo;10;50.4;manual;8;9;4;0.4;58040;1774;false
+2026-04-24T17:26:18.943Z;user2;AUDI;motoryzacja;4;6;manual;0;0;0;0;114108;287;true
+2026-04-24T17:27:24.208Z;user2;NAGANO;geografia;6;26;hint;8;10;6;1;159373;1049;false
+2026-04-24T17:28:20.775Z;user2;REPERACJA;słownikowe;9;39.3;manual;11;19;5;0.56;202604;802;false
+2026-04-24T17:28:35.479Z;user2;STADION;sport;7;4.1;manual;1;1;0;0;252560;424;true
+2026-04-24T17:29:18.818Z;user2;MAGELLAN;historia;8;4.6;manual;0;0;0;0;295388;537;true
+2026-04-24T17:29:24.995Z;user2;ALINA;literatura;5;2.3;manual;0;0;0;0;303838;246;true
+2026-04-24T17:29:29.641Z;user2;DONALD;popkultura;6;2.3;manual;0;0;0;0;308525;341;true
+2026-04-24T17:29:55.996Z;user2;WOKALISTKA;muzyka;10;20.1;manual;2;3;1;0.1;317027;1390;false
+2026-04-24T17:31:27.664Z;user3;ŁZA;metafora;3;1.9;manual;0;0;0;0;5198;322;true
+2026-04-24T17:31:29.585Z;user3;CIA;polityka;3;0.9;manual;0;0;0;0;8153;107;true
+2026-04-24T17:31:35.988Z;user3;WDECH;biologia;5;4.4;manual;0;0;0;0;11013;181;true
+2026-04-24T17:31:39.386Z;user3;DNO;słownikowe;3;1.8;manual;0;0;0;0;16955;164;true
+2026-04-24T17:31:52.487Z;user3;RĘCE;idiomy;4;10.3;manual;3;4;0;0;21547;839;true
+2026-04-24T17:31:58.783Z;user3;PITT;film;4;2;manual;1;1;0;0;36169;262;true
+2026-04-24T17:32:06.559Z;user3;BACA;folklor;4;4;manual;1;4;0;0;41978;256;true
+2026-04-24T17:32:11.667Z;user3;KRONOS;mitologia;6;3.7;manual;0;0;0;0;47395;145;true
+2026-04-24T17:32:15.862Z;user3;KALI;literatura;4;1.9;manual;0;0;0;0;53390;133;true
+2026-04-24T17:32:26.946Z;user3;AKIRA;film;5;4.3;manual;0;0;0;0;62034;334;true
+2026-04-24T17:32:34.783Z;user3;ZIARNO;przysłowia;6;3;manual;0;0;0;0;3054;336;true
+2026-04-24T17:32:39.826Z;user3;AUDI;motoryzacja;4;3.3;manual;0;0;0;0;7782;486;true
+2026-04-24T17:32:47.993Z;user3;MAGELLAN;historia;8;6.8;manual;0;0;0;0;12414;362;true
+2026-04-24T17:32:59.023Z;user3;NAGANO;geografia;6;7.5;manual;4;4;0;0;22828;358;true
+2026-04-24T17:33:06.340Z;user3;STADION;sport;7;5.8;manual;0;0;0;0;31808;211;true
+2026-04-24T17:33:14.121Z;user3;MAKARONIZM;językoznawstwo;10;6;manual;0;0;0;0;39345;217;true
+2026-04-24T17:33:18.187Z;user3;ALINA;literatura;5;2.1;manual;0;0;0;0;47283;160;true
+2026-04-24T17:33:34.695Z;user3;REPERACJA;słownikowe;9;15.4;manual;1;1;0;0;50590;912;true
+2026-04-24T17:33:44.396Z;user3;WOKALISTKA;muzyka;10;8;manual;3;4;0;0;67599;230;true
+2026-04-24T17:33:48.114Z;user3;DONALD;popkultura;6;1.4;manual;0;0;0;0;77936;151;true
+2026-04-26T14:22:39.168Z;user8;BACA;folklor;4;3.2;manual;0;0;0;0;5603;349;true
+2026-04-26T14:22:59.691Z;user8;DNO;słownikowe;3;3.1;manual;1;1;0;0;26151;553;true
+2026-04-26T14:23:24.652Z;user8;KRONOS;mitologia;6;14.6;manual;0;0;1;0.17;39682;793;false
+2026-04-26T14:23:30.858Z;user8;AKIRA;film;5;2.3;manual;0;0;0;0;58132;404;true
+2026-04-26T14:23:39.408Z;user8;ŁZA;metafora;3;5.1;manual;1;1;0;0;63895;1043;true
+2026-04-26T14:23:44.694Z;user8;PITT;film;4;1.9;manual;0;0;0;0;72429;299;true
+2026-04-26T14:23:49.912Z;user8;CIA;polityka;3;1.8;manual;0;0;0;0;77662;522;true
+2026-04-26T14:25:00.533Z;user8;WDECH;biologia;5;131.9;manual;2;2;0;0;18259;16372;true
+2026-04-26T14:25:11.764Z;user8;KALI;literatura;4;148.2;manual;4;6;0;0;13141;11350;true
+2026-04-26T14:25:24.095Z;user8;RĘCE;idiomy;4;140.7;manual;1;1;0;0;32860;27945;true
+2026-04-26T14:25:32.841Z;user8;DONALD;popkultura;6;2.7;manual;0;0;0;0;3873;339;true
+2026-04-26T14:25:53.081Z;user8;NAGANO;geografia;6;14.6;manual;14;12;1;0.17;12067;473;false
+2026-04-26T14:26:05.780Z;user8;ALINA;literatura;5;2.3;manual;0;0;0;0;37225;359;true
+2026-04-26T14:26:29.603Z;user8;AUDI;motoryzacja;4;20.7;manual;9;7;1;0.25;42613;969;false
+2026-04-26T14:26:37.087Z;user8;STADION;sport;7;4.5;manual;0;0;0;0;66324;615;true
+2026-04-26T14:26:51.764Z;user8;MAGELLAN;historia;8;7.4;hint;2;0;2;0.25;78117;728;false
+2026-04-26T14:27:23.441Z;user8;WOKALISTKA;muzyka;10;24.6;manual;15;15;1;0.1;92517;589;false
+2026-04-26T14:27:39.413Z;user8;REPERACJA;słownikowe;9;8.4;manual;1;1;1;0.11;124740;838;false
+2026-04-26T14:27:52.571Z;user8;ZIARNO;przysłowia;6;10.2;manual;2;3;0;0;136075;645;true
+2026-04-26T14:28:10.364Z;user8;MAKARONIZM;językoznawstwo;10;13;manual;6;0;4;0.4;151088;1443;false
+2026-04-27T07:52:51.360Z;user22;WDECH;Definicje słownikowe;5;3.5;manual;0;0;0;0;14470;367;true
+2026-04-27T07:52:59.021Z;user22;RONDO;Definicje słownikowe;5;2.7;manual;0;0;0;0;22886;457;true
+2026-04-27T07:54:33.738Z;user22;GOETHE;Wiedza ogólna / encyklopedyczna;6;29;manual;0;0;3;0.5;91344;5794;false
+2026-04-27T07:54:53.720Z;user22;DNO;Definicje słownikowe;3;1.9;manual;0;0;0;0;138328;419;true
+2026-04-27T12:42:24.651Z;user31;NAGANO;Wiedza ogólna / encyklopedyczna;6;18;hint;10;11;6;1;2251;685;false
+2026-04-27T12:42:35.235Z;user31;REPERACJA;Definicje słownikowe;9;2.9;manual;0;0;0;0;28035;221;true
+2026-04-27T12:42:48.818Z;user31;KRONOS;Wiedza ogólna / encyklopedyczna;6;13.6;manual;2;4;0;0;30889;238;true
+2026-04-27T12:42:51.049Z;user31;DNO;Definicje słownikowe;3;5;manual;0;1;0;0;41683;121;true
+2026-04-27T12:43:19.498Z;user31;WDECH;Definicje słownikowe;5;28.5;manual;4;4;1;0.2;46673;1915;false
+2026-04-27T12:43:33.031Z;user31;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;6.4;manual;6;7;0;0;82227;267;true
+2026-04-27T12:43:35.698Z;user31;RONDO;Definicje słownikowe;5;2.7;manual;0;0;0;0;88670;122;true
+2026-04-27T12:43:43.767Z;user31;RONIN;Wiedza ogólna / encyklopedyczna;5;8.1;manual;2;2;3;0.6;91342;489;false
+2026-04-27T12:43:53.581Z;user31;PIEKŁO;Metafora i gra słowna;6;3;manual;0;0;0;0;2559;267;true
+2026-04-27T12:44:00.625Z;user31;ZIARNO;Metafora i gra słowna;6;7;manual;0;0;3;0.5;5533;427;false
+2026-04-27T12:44:04.783Z;user31;MAKARONIZM;Metafora i gra słowna;10;4.2;manual;0;0;0;0;12578;170;true
+2026-04-27T12:44:07.456Z;user31;DONALD;Nazwy własne i popkultura;6;2.7;manual;0;0;0;0;16731;120;true
+2026-04-27T12:44:23.026Z;user31;MARMOLADA;Definicje słownikowe;9;15.6;manual;8;8;4;0.44;19386;419;false
+2026-04-27T12:44:26.369Z;user31;LWICA;Metafora i gra słowna;5;13.8;manual;0;1;0;0;24491;139;true
+2026-04-27T12:44:29.383Z;user31;RĘCE;Metafora i gra słowna;4;3;manual;0;0;0;0;38319;262;true
+2026-04-27T12:44:32.129Z;user31;PITT;Nazwy własne i popkultura;4;2.7;manual;0;0;0;0;41326;214;true
+2026-04-27T12:44:36.436Z;user31;NAPIWEK;Definicje słownikowe;7;4.4;manual;1;1;0;0;43993;216;true
+2026-04-27T12:44:38.557Z;user31;ŁZA;Metafora i gra słowna;3;1.9;manual;0;0;0;0;48387;203;true
+2026-04-29T07:42:08.831Z;user32;WDECH;Definicje słownikowe;5;1.9;manual;0;0;0;0;15118;287;true
+2026-04-29T07:42:12.653Z;user32;AKIRA;Wiedza ogólna / encyklopedyczna;5;8.8;hint;0;0;5;1;12117;462;false
+2026-04-29T07:42:17.387Z;user32;GOETHE;Wiedza ogólna / encyklopedyczna;6;8.6;hint;0;0;6;1;16995;357;false
+2026-04-29T07:42:27.391Z;user32;KRONOS;Wiedza ogólna / encyklopedyczna;6;4.2;hint;1;0;1;0.17;31517;546;false
+2026-04-29T07:42:32.364Z;user32;DNO;Definicje słownikowe;3;7;hint;0;0;3;1;33602;156;false
+2026-04-29T07:42:35.496Z;user32;RONDO;Definicje słownikowe;5;1.1;manual;0;0;0;0;42701;96;true
+2026-04-29T07:42:42.807Z;user32;NAGANO;Wiedza ogólna / encyklopedyczna;6;7.3;hint;5;5;6;1;43779;250;false
+2026-04-29T07:43:02.638Z;user32;RONIN;Wiedza ogólna / encyklopedyczna;5;1;manual;0;0;0;0;69917;92;true
+2026-04-29T07:43:07.706Z;user32;REPERACJA;Definicje słownikowe;9;1;hint;0;0;9;1;74954;128;false
+2026-04-29T07:43:09.391Z;user32;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;1;hint;0;0;8;1;76682;141;false
+2026-04-29T07:43:49.852Z;user32;LWICA;Metafora i gra słowna;5;6.4;hint;0;0;5;1;15740;778;false
+2026-04-29T07:43:53.492Z;user32;NAPIWEK;Definicje słownikowe;7;1.6;manual;0;0;0;0;24155;141;true
+2026-04-29T07:44:05.711Z;user32;MARMOLADA;Definicje słownikowe;9;12.2;manual;5;6;0;0;25794;437;true
+2026-04-29T07:44:08.686Z;user32;ŁZA;Metafora i gra słowna;3;3;manual;0;0;0;0;38018;160;true
+2026-04-29T07:44:10.916Z;user32;PITT;Nazwy własne i popkultura;4;2.2;manual;0;0;0;0;40996;154;true
+2026-04-29T07:44:19.045Z;user32;RĘCE;Metafora i gra słowna;4;8.1;manual;2;4;0;0;43218;424;true
+2026-04-29T07:44:36.862Z;user32;MAKARONIZM;Metafora i gra słowna;10;23.9;hint;10;15;12;1.2;45265;357;false
+2026-04-29T07:44:40.962Z;user32;ZIARNO;Metafora i gra słowna;6;1.4;manual;0;0;0;0;71851;167;true
+2026-04-29T07:44:43.297Z;user32;DONALD;Nazwy własne i popkultura;6;2.4;manual;0;0;0;0;73220;105;true
+2026-04-29T15:48:07.904Z;user34;NAGANO;Wiedza ogólna / encyklopedyczna;6;4.4;manual;1;2;0;0;530;311;true
+2026-04-29T15:48:15.341Z;user34;RONIN;Wiedza ogólna / encyklopedyczna;5;7.4;hint;4;0;4;0.8;4911;593;false
+2026-04-29T15:48:39.961Z;user34;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;28.3;hint;13;0;5;0.63;8634;458;false
+2026-04-29T15:48:49.368Z;user34;REPERACJA;Definicje słownikowe;9;13.3;manual;6;5;0;0;33121;298;true
+2026-04-29T15:48:53.823Z;user34;WDECH;Definicje słownikowe;5;9.1;manual;1;2;0;0;41775;1493;true
+2026-04-29T15:48:56.544Z;user34;DNO;Definicje słownikowe;3;2.7;manual;0;0;0;0;50830;133;true
+2026-04-29T15:49:00.757Z;user34;RONDO;Definicje słownikowe;5;4.2;manual;0;0;0;0;53545;125;true
+2026-04-29T15:49:07.378Z;user34;GOETHE;Wiedza ogólna / encyklopedyczna;6;4.7;hint;0;0;6;1;57761;138;false
+2026-04-29T15:49:08.508Z;user34;AKIRA;Wiedza ogólna / encyklopedyczna;5;1.9;manual;0;0;0;0;63626;137;true
+2026-04-29T15:49:17.461Z;user34;KRONOS;Wiedza ogólna / encyklopedyczna;6;9;manual;8;10;0;0;65505;302;true
+2026-04-30T06:36:46.076Z;user36;KRONOS;Wiedza ogólna / encyklopedyczna;6;5.4;manual;0;0;0;0;3372;130;true
+2026-04-30T06:36:54.851Z;user36;RONDO;Definicje słownikowe;5;1.2;manual;0;0;0;0;16383;181;true
+2026-04-30T06:37:06.079Z;user39;RONDO;Definicje słownikowe;5;2.3;manual;0;0;0;0;2252;229;true
+2026-04-30T06:37:10.219Z;user43;WDECH;Definicje słownikowe;5;9.5;manual;0;0;0;0;3566;320;true
+2026-04-30T06:37:11.590Z;user40;RONDO;Definicje słownikowe;5;2.9;manual;0;0;0;0;14426;310;true
+2026-04-30T06:37:14.790Z;user43;DNO;Definicje słownikowe;3;15.6;manual;3;2;1;0.33;2074;2047;false
+2026-04-30T06:37:16.646Z;user50;RONDO;Definicje słownikowe;5;2.1;manual;0;0;0;0;1702;107;true
+2026-04-30T06:37:20.227Z;user37;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;24.8;manual;1;1;1;0.13;14245;2520;false
+2026-04-30T06:37:22.080Z;user46;RONDO;Definicje słownikowe;5;1.7;manual;0;0;0;0;19975;130;true
+2026-04-30T06:37:23.208Z;user45;WDECH;Definicje słownikowe;5;3;manual;0;0;0;0;13109;492;true
+2026-04-30T06:37:25.582Z;user41;GOETHE;Wiedza ogólna / encyklopedyczna;6;27;manual;0;0;1;0.17;2206;3676;false
+2026-04-30T06:37:26.012Z;user42;KRONOS;Wiedza ogólna / encyklopedyczna;6;12.2;manual;1;0;0;0;14720;693;true
+2026-04-30T06:37:27.913Z;user49;RONDO;Definicje słownikowe;5;2.7;manual;0;0;0;0;15967;315;true
+2026-04-30T06:37:28.345Z;user50;DNO;Definicje słownikowe;3;11.7;hint;0;0;3;1;3831;2912;false
+2026-04-30T06:37:31.247Z;user36;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;34.8;manual;5;5;6;0.75;19156;1911;false
+2026-04-30T06:37:31.889Z;user37;REPERACJA;Definicje słownikowe;9;11.7;hint;1;0;1;0.11;39070;348;false
+2026-04-30T06:37:31.896Z;user39;WDECH;Definicje słownikowe;5;1.9;manual;0;0;0;0;28403;274;true
+2026-04-30T06:37:31.979Z;user49;RONIN;Wiedza ogólna / encyklopedyczna;5;4.1;manual;0;0;0;0;18675;216;true
+2026-04-30T06:37:38.051Z;user48;AKIRA;Wiedza ogólna / encyklopedyczna;5;5;hint;0;0;5;1;27987;825;false
+2026-04-30T06:37:39.570Z;user39;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;6.2;manual;0;0;0;0;31850;137;true
+2026-04-30T06:37:40.097Z;user50;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;11.1;manual;0;0;4;0.5;16253;1289;false
+2026-04-30T06:37:40.611Z;user42;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;17.8;manual;6;7;0;0;23663;567;true
+2026-04-30T06:37:40.657Z;user41;RONDO;Definicje słownikowe;5;1.3;manual;0;0;0;0;42936;167;true
+2026-04-30T06:37:41.369Z;user37;RONDO;Definicje słownikowe;5;11.3;manual;2;0;0;0;48897;273;true
+2026-04-30T06:37:41.960Z;user36;NAGANO;Wiedza ogólna / encyklopedyczna;6;40.1;hint;2;6;9;1.5;24538;518;false
+2026-04-30T06:37:46.076Z;user44;WDECH;Definicje słownikowe;5;1.1;manual;0;0;0;0;6544;138;true
+2026-04-30T06:37:46.403Z;user36;REPERACJA;Definicje słownikowe;9;33;manual;0;1;4;0.44;36078;320;false
+2026-04-30T06:37:49.697Z;user36;DNO;Definicje słownikowe;3;38.1;manual;2;2;2;0.67;34270;4587;false
+2026-04-30T06:37:50.287Z;user40;REPERACJA;Definicje słownikowe;9;53.5;manual;7;12;4;0.44;2529;1391;false
+2026-04-30T06:37:52.610Z;user41;WDECH;Definicje słownikowe;5;1.9;manual;0;0;0;0;54311;427;true
+2026-04-30T06:37:53.240Z;user36;RONIN;Wiedza ogólna / encyklopedyczna;5;62.2;hint;0;0;5;1;13728;563;false
+2026-04-30T06:37:55.064Z;user50;REPERACJA;Definicje słownikowe;9;15;manual;5;12;3;0.33;27326;390;false
+2026-04-30T06:37:57.739Z;user44;DNO;Definicje słownikowe;3;11.7;manual;4;3;0;0;7598;795;true
+2026-04-30T06:37:58.819Z;user41;DNO;Definicje słownikowe;3;0.9;manual;0;0;0;0;61550;181;true
+2026-04-30T06:37:59.138Z;user36;WDECH;Definicje słownikowe;5;73.1;manual;2;1;3;0.6;8783;379;false
+2026-04-30T06:38:00.544Z;user40;RONIN;Wiedza ogólna / encyklopedyczna;5;49;hint;0;0;5;1;17301;9716;false
+2026-04-30T06:38:00.580Z;user45;REPERACJA;Definicje słownikowe;9;17.2;manual;0;0;0;0;36290;190;true
+2026-04-30T06:38:00.714Z;user46;WDECH;Definicje słownikowe;5;5.1;manual;0;0;0;0;55172;524;true
+2026-04-30T06:38:01.208Z;user49;AKIRA;Wiedza ogólna / encyklopedyczna;5;29.2;manual;0;0;0;0;22746;172;true
+2026-04-30T06:38:01.638Z;user43;KRONOS;Wiedza ogólna / encyklopedyczna;6;1.8;manual;0;0;0;0;62726;193;true
+2026-04-30T06:38:01.762Z;user36;AKIRA;Wiedza ogólna / encyklopedyczna;5;3.6;hint;0;1;5;1;80895;391;false
+2026-04-30T06:38:02.034Z;user50;RONIN;Wiedza ogólna / encyklopedyczna;5;13.4;hint;0;0;5;1;35806;834;false
+2026-04-30T06:38:03.097Z;user48;KRONOS;Wiedza ogólna / encyklopedyczna;6;23.3;manual;3;3;0;0;34754;1263;true
+2026-04-30T06:38:03.788Z;user51;WDECH;Definicje słownikowe;5;1.8;manual;0;0;0;0;29743;165;true
+2026-04-30T06:38:04.353Z;user42;NAGANO;Wiedza ogólna / encyklopedyczna;6;23.7;manual;11;8;0;0;41482;619;true
+2026-04-30T06:38:04.582Z;user36;GOETHE;Wiedza ogólna / encyklopedyczna;6;85.9;hint;0;0;6;1;1361;265;false
+2026-04-30T06:38:05.691Z;user46;REPERACJA;Definicje słownikowe;9;28.4;manual;1;2;1;0.11;36819;2844;false
+2026-04-30T06:38:07.581Z;user51;RONIN;Wiedza ogólna / encyklopedyczna;5;3.8;manual;0;0;0;0;31528;190;true
+2026-04-30T06:38:07.693Z;user48;RONDO;Definicje słownikowe;5;4.6;manual;0;0;0;0;58038;147;true
+2026-04-30T06:38:09.644Z;user50;AKIRA;Wiedza ogólna / encyklopedyczna;5;6.6;manual;0;0;0;0;50204;76;true
+2026-04-30T06:38:10.226Z;user51;KRONOS;Wiedza ogólna / encyklopedyczna;6;2.7;manual;0;0;0;0;35303;137;true
+2026-04-30T06:38:13.498Z;user49;KRONOS;Wiedza ogólna / encyklopedyczna;6;12.2;manual;0;0;0;0;51987;137;true
+2026-04-30T06:38:15.020Z;user39;GOETHE;Wiedza ogólna / encyklopedyczna;6;3.9;manual;1;1;0;0;69597;343;true
+2026-04-30T06:38:16.806Z;user48;REPERACJA;Definicje słownikowe;9;9.1;hint;0;0;9;1;62637;612;false
+2026-04-30T06:38:18.362Z;user45;RONDO;Definicje słownikowe;5;25.8;manual;0;4;0;0;45508;176;true
+2026-04-30T06:38:18.378Z;user50;KRONOS;Wiedza ogólna / encyklopedyczna;6;4;manual;0;0;0;0;61621;112;true
+2026-04-30T06:38:18.980Z;user40;KRONOS;Wiedza ogólna / encyklopedyczna;6;10.9;manual;0;0;0;0;73771;161;true
+2026-04-30T06:38:21.513Z;user43;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;57.3;manual;7;9;4;0.5;27115;1530;false
+2026-04-30T06:38:21.871Z;user37;WDECH;Definicje słownikowe;5;8;manual;4;4;1;0.2;92661;367;false
+2026-04-30T06:38:24.471Z;user46;DNO;Definicje słownikowe;3;62.4;manual;5;4;1;0.33;21647;1154;false
+2026-04-30T06:38:24.516Z;user45;DNO;Definicje słownikowe;3;33.5;manual;10;6;0;0;43896;1474;true
+2026-04-30T06:38:27.214Z;user41;RONIN;Wiedza ogólna / encyklopedyczna;5;61.6;hint;7;9;5;1;29198;882;false
+2026-04-30T06:38:31.260Z;user46;RONIN;Wiedza ogólna / encyklopedyczna;5;20.1;manual;0;2;1;0.2;70729;618;false
+2026-04-30T06:38:31.665Z;user43;RONIN;Wiedza ogólna / encyklopedyczna;5;73.5;manual;0;0;3;0.6;21115;1443;false
+2026-04-30T06:38:32.200Z;user40;WDECH;Definicje słownikowe;5;13.2;manual;8;10;0;0;84659;420;true
+2026-04-30T06:38:35.481Z;user45;RONIN;Wiedza ogólna / encyklopedyczna;5;3.6;manual;0;0;0;0;84790;272;true
+2026-04-30T06:38:37.632Z;user40;GOETHE;Wiedza ogólna / encyklopedyczna;6;33.8;hint;0;0;6;1;69569;490;false
+2026-04-30T06:38:41.197Z;user39;RONIN;Wiedza ogólna / encyklopedyczna;5;26.2;hint;0;0;5;1;73461;390;false
+2026-04-30T06:38:44.470Z;user49;WDECH;Definicje słownikowe;5;31.1;manual;3;4;0;0;64194;1723;true
+2026-04-30T06:38:47.163Z;user43;REPERACJA;Definicje słownikowe;9;97;hint;1;8;9;1;13096;567;false
+2026-04-30T06:38:47.845Z;user39;DNO;Definicje słownikowe;3;1;hint;0;0;3;1;105278;504;false
+2026-04-30T06:38:50.079Z;user44;RONDO;Definicje słownikowe;5;0.9;manual;0;0;0;0;70714;114;true
+2026-04-30T06:38:51.291Z;user50;NAGANO;Wiedza ogólna / encyklopedyczna;6;32.9;hint;15;16;8;1.33;65594;369;false
+2026-04-30T06:38:52.076Z;user40;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;29.3;hint;1;3;8;1;88519;2717;false
+2026-04-30T06:38:54.360Z;user41;REPERACJA;Definicje słownikowe;9;55.6;manual;5;6;4;0.44;62439;537;false
+2026-04-30T06:38:55.173Z;user40;DNO;Definicje słownikowe;3;13.8;hint;0;0;3;1;107057;916;false
+2026-04-30T06:38:57.828Z;user44;REPERACJA;Definicje słownikowe;9;52.4;hint;2;9;9;1;26931;1636;false
+2026-04-30T06:38:59.873Z;user48;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;12.2;manual;1;2;1;0.13;102630;1172;false
+2026-04-30T06:39:00.968Z;user42;WDECH;Definicje słownikowe;5;45;manual;5;10;0;0;76821;270;true
+2026-04-30T06:39:01.401Z;user44;RONIN;Wiedza ogólna / encyklopedyczna;5;71.1;hint;1;3;5;1;11800;10796;false
+2026-04-30T06:39:01.434Z;user43;GOETHE;Wiedza ogólna / encyklopedyczna;6;99.2;hint;5;10;5;0.83;25166;2374;false
+2026-04-30T06:39:01.979Z;user39;REPERACJA;Definicje słownikowe;9;115.9;manual;1;6;1;0.11;4517;3071;false
+2026-04-30T06:39:03.941Z;user50;WDECH;Definicje słownikowe;5;27.2;manual;10;19;0;0;83997;742;true
+2026-04-30T06:39:06.056Z;user46;KRONOS;Wiedza ogólna / encyklopedyczna;6;65.4;manual;0;0;1;0.17;60268;1167;false
+2026-04-30T06:39:06.498Z;user43;NAGANO;Wiedza ogólna / encyklopedyczna;6;64.9;hint;5;8;6;1;64542;2881;false
+2026-04-30T06:39:07.638Z;user39;NAGANO;Wiedza ogólna / encyklopedyczna;6;95.7;hint;0;0;6;1;30333;12659;false
+2026-04-30T06:39:09.199Z;user44;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;56.1;hint;5;3;7;0.88;34632;4311;false
+2026-04-30T06:39:12.106Z;user44;AKIRA;Wiedza ogólna / encyklopedyczna;5;52.6;hint;22;19;5;1;40987;978;false
+2026-04-30T06:39:16.441Z;user43;RONDO;Definicje słownikowe;5;1.7;manual;0;0;0;0;137627;194;true
+2026-04-30T06:39:17.123Z;user39;KRONOS;Wiedza ogólna / encyklopedyczna;6;84;manual;0;0;3;0.5;51561;994;false
+2026-04-30T06:39:19.551Z;user41;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;97.4;hint;8;9;8;1;45821;857;false
+2026-04-30T06:39:21.918Z;user52;RONIN;Wiedza ogólna / encyklopedyczna;5;4;manual;0;0;0;0;34124;150;true
+2026-04-30T06:39:22.045Z;user51;NAGANO;Wiedza ogólna / encyklopedyczna;6;71.8;manual;0;0;0;0;37967;294;true
+2026-04-30T06:39:24.166Z;user50;PIEKŁO;Metafora i gra słowna;6;15.4;hint;7;7;6;1;2368;548;false
+2026-04-30T06:39:26.064Z;user37;DNO;Definicje słownikowe;3;68.7;manual;1;2;1;0.33;96207;17157;false
+2026-04-30T06:39:26.315Z;user49;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;64.8;manual;0;1;1;0.13;72275;2596;false
+2026-04-30T06:39:28.045Z;user44;KRONOS;Wiedza ogólna / encyklopedyczna;6;45.2;hint;12;13;5;0.83;64332;1236;false
+2026-04-30T06:39:28.369Z;user42;REPERACJA;Definicje słownikowe;9;31.2;manual;2;2;0;0;118044;2824;true
+2026-04-30T06:39:30.219Z;user48;NAGANO;Wiedza ogólna / encyklopedyczna;6;30.4;manual;8;8;4;0.67;114797;1092;false
+2026-04-30T06:39:30.929Z;user40;NAGANO;Wiedza ogólna / encyklopedyczna;6;4.9;hint;2;0;6;1;151780;695;false
+2026-04-30T06:39:30.994Z;user44;GOETHE;Wiedza ogólna / encyklopedyczna;6;53.6;hint;0;1;6;1;58932;2936;false
+2026-04-30T06:39:31.651Z;user42;RONDO;Definicje słownikowe;5;5.7;manual;0;0;0;0;146841;137;true
+2026-04-30T06:39:32.614Z;user44;NAGANO;Wiedza ogólna / encyklopedyczna;6;67.4;hint;7;11;6;1;46712;3015;false
+2026-04-30T06:39:34.548Z;user48;WDECH;Definicje słownikowe;5;4.3;manual;0;0;0;0;145153;227;true
+2026-04-30T06:39:34.907Z;user46;NAGANO;Wiedza ogólna / encyklopedyczna;6;28.8;manual;9;14;5;0.83;125627;487;false
+2026-04-30T06:39:36.142Z;user41;KRONOS;Wiedza ogólna / encyklopedyczna;6;115.5;manual;0;0;0;0;44285;165;true
+2026-04-30T06:39:37.509Z;user52;AKIRA;Wiedza ogólna / encyklopedyczna;5;15.6;manual;3;1;1;0.2;38080;849;false
+2026-04-30T06:39:38.052Z;user45;KRONOS;Wiedza ogólna / encyklopedyczna;6;97.5;manual;7;15;0;0;53503;962;true
+2026-04-30T06:39:39.953Z;user43;PIEKŁO;Metafora i gra słowna;6;2.1;manual;0;0;0;0;6608;267;true
+2026-04-30T06:39:40.087Z;user42;PIEKŁO;Metafora i gra słowna;6;2.9;manual;0;0;0;0;3607;209;true
+2026-04-30T06:39:41.248Z;user39;PIEKŁO;Metafora i gra słowna;6;3.7;manual;0;0;0;0;4009;185;true
+2026-04-30T06:39:43.024Z;user52;WDECH;Definicje słownikowe;5;11.4;manual;1;2;0;0;47811;1878;true
+2026-04-30T06:39:43.027Z;user40;MARMOLADA;Definicje słownikowe;9;4.1;manual;1;1;0;0;2912;132;true
+2026-04-30T06:39:43.969Z;user39;ŁZA;Metafora i gra słowna;3;2.7;manual;0;0;0;0;7677;104;true
+2026-04-30T06:39:44.775Z;user44;NAPIWEK;Definicje słownikowe;7;1.6;manual;0;0;0;0;8415;153;true
+2026-04-30T06:39:45.026Z;user41;AKIRA;Wiedza ogólna / encyklopedyczna;5;8.9;manual;0;0;0;0;159769;255;true
+2026-04-30T06:39:46.815Z;user39;NAPIWEK;Definicje słownikowe;7;2.8;manual;0;0;0;0;10409;112;true
+2026-04-30T06:39:48.016Z;user46;GOETHE;Wiedza ogólna / encyklopedyczna;6;137.6;hint;0;7;7;1.17;29989;19657;false
+2026-04-30T06:39:48.758Z;user52;DNO;Definicje słownikowe;3;5.7;manual;0;0;0;0;59186;74;true
+2026-04-30T06:39:53.121Z;user48;DNO;Definicje słownikowe;3;18.6;manual;1;1;2;0.67;149486;726;false
+2026-04-30T06:39:53.303Z;user49;NAGANO;Wiedza ogólna / encyklopedyczna;6;27;manual;17;18;0;0;137082;550;true
+2026-04-30T06:39:53.950Z;user40;LWICA;Metafora i gra słowna;5;10.9;manual;0;0;2;0.4;6967;1479;false
+2026-04-30T06:39:54.813Z;user52;RONDO;Definicje słownikowe;5;6.1;manual;0;0;0;0;64923;248;true
+2026-04-30T06:39:54.872Z;user46;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;166.9;hint;0;2;9;1.13;7525;14153;false
+2026-04-30T06:39:55.113Z;user50;RĘCE;Metafora i gra słowna;4;1.2;manual;0;0;0;0;47471;216;true
+2026-04-30T06:39:56.197Z;user44;ŁZA;Metafora i gra słowna;3;1.8;manual;0;0;0;0;19662;479;true
+2026-04-30T06:39:56.646Z;user43;NAPIWEK;Definicje słownikowe;7;3;manual;0;0;0;0;22426;374;true
+2026-04-30T06:39:58.262Z;user46;AKIRA;Wiedza ogólna / encyklopedyczna;5;176.1;hint;7;9;6;1.2;1723;3451;false
+2026-04-30T06:39:58.478Z;user40;NAPIWEK;Definicje słownikowe;7;4.5;manual;0;0;0;0;17896;133;true
+2026-04-30T06:40:00.583Z;user39;MARMOLADA;Definicje słownikowe;9;13.7;manual;9;10;0;0;13252;409;true
+2026-04-30T06:40:02.645Z;user44;RĘCE;Metafora i gra słowna;4;6.4;manual;1;2;0;0;21462;309;true
+2026-04-30T06:40:03.226Z;user39;PITT;Nazwy własne i popkultura;4;13.1;manual;0;0;0;0;16496;123;true
+2026-04-30T06:40:08.401Z;user40;ZIARNO;Metafora i gra słowna;6;9.9;manual;0;0;3;0.5;22437;903;false
+2026-04-30T06:40:09.126Z;user44;PIEKŁO;Metafora i gra słowna;6;8.8;manual;0;1;0;0;25590;165;true
+2026-04-30T06:40:09.724Z;user41;NAGANO;Wiedza ogólna / encyklopedyczna;6;24.7;manual;11;12;0;0;168640;696;true
+2026-04-30T06:40:10.854Z;user50;ŁZA;Metafora i gra słowna;3;15.7;manual;1;2;0;0;48717;271;true
+2026-04-30T06:40:11.790Z;user51;DNO;Definicje słownikowe;3;100.8;manual;5;4;0;0;58723;8337;true
+2026-04-30T06:40:12.322Z;user43;LWICA;Metafora i gra słowna;5;15.7;manual;3;3;3;0.6;25420;897;false
+2026-04-30T06:40:12.726Z;user46;MARMOLADA;Definicje słownikowe;9;9.7;manual;2;2;2;0.22;3122;479;false
+2026-04-30T06:40:13.926Z;user42;PITT;Nazwy własne i popkultura;4;17.7;manual;4;4;3;0.75;22658;647;false
+2026-04-30T06:40:15.707Z;user40;PIEKŁO;Metafora i gra słowna;6;7.3;manual;1;2;0;0;32363;433;true
+2026-04-30T06:40:16.509Z;user45;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;3.7;manual;0;0;1;0.13;185767;523;false
+2026-04-30T06:40:16.733Z;user50;PITT;Nazwy własne i popkultura;4;1.6;manual;0;0;0;0;68719;121;true
+2026-04-30T06:40:17.100Z;user52;REPERACJA;Definicje słownikowe;9;22.3;hint;2;0;1;0.11;70987;1193;false
+2026-04-30T06:40:17.556Z;user44;DONALD;Nazwy własne i popkultura;6;8.4;manual;3;6;0;0;34382;258;true
+2026-04-30T06:40:19.018Z;user49;REPERACJA;Definicje słownikowe;9;31.5;manual;0;1;0;0;158290;231;true
+2026-04-30T06:40:20.450Z;user42;DONALD;Nazwy własne i popkultura;6;13.3;manual;3;5;0;0;33550;498;true
+2026-04-30T06:40:22.699Z;user44;ZIARNO;Metafora i gra słowna;6;8;manual;0;1;0;0;39970;189;true
+2026-04-30T06:40:22.961Z;user46;MAKARONIZM;Metafora i gra słowna;10;10.2;hint;0;0;10;1;12810;404;false
+2026-04-30T06:40:25.585Z;user40;MAKARONIZM;Metafora i gra słowna;10;13;hint;0;0;10;1;36590;544;false
+2026-04-30T06:40:26.518Z;user44;PITT;Nazwy własne i popkultura;4;3.8;manual;0;0;0;0;47964;166;true
+2026-04-30T06:40:26.619Z;user39;RĘCE;Metafora i gra słowna;4;1.5;manual;0;0;0;0;51593;212;true
+2026-04-30T06:40:27.709Z;user52;KRONOS;Wiedza ogólna / encyklopedyczna;6;21.5;manual;0;0;0;0;82369;160;true
+2026-04-30T06:40:29.841Z;user43;MARMOLADA;Definicje słownikowe;9;17.5;hint;10;12;9;1;41141;426;false
+2026-04-30T06:40:32.170Z;user52;NAGANO;Wiedza ogólna / encyklopedyczna;6;4.5;manual;0;0;0;0;103875;236;true
+2026-04-30T06:40:32.729Z;user46;RĘCE;Metafora i gra słowna;4;1.7;manual;0;0;0;0;31137;258;true
+2026-04-30T06:40:33.578Z;user44;MARMOLADA;Definicje słownikowe;9;48.8;manual;1;1;1;0.11;10024;391;false
+2026-04-30T06:40:35.673Z;user45;AKIRA;Wiedza ogólna / encyklopedyczna;5;137.3;hint;4;5;5;1;71279;585;false
+2026-04-30T06:40:36.616Z;user39;DONALD;Nazwy własne i popkultura;6;1.6;manual;0;0;0;0;61464;161;true
+2026-04-30T06:40:38.117Z;user42;MAKARONIZM;Metafora i gra słowna;10;17.7;manual;3;5;9;0.9;46840;675;false
+2026-04-30T06:40:38.425Z;user45;GOETHE;Wiedza ogólna / encyklopedyczna;6;195.2;hint;1;5;7;1.17;16118;3046;false
+2026-04-30T06:40:38.531Z;user41;MARMOLADA;Definicje słownikowe;9;23.3;manual;17;18;1;0.11;2846;478;false
+2026-04-30T06:40:39.198Z;user46;LWICA;Metafora i gra słowna;5;11;hint;0;0;5;1;28323;851;false
+2026-04-30T06:40:40.918Z;user44;MAKARONIZM;Metafora i gra słowna;10;5.3;hint;0;0;10;1;60847;483;false
+2026-04-30T06:40:41.051Z;user51;AKIRA;Wiedza ogólna / encyklopedyczna;5;128.4;manual;0;1;1;0.2;60385;852;false
+2026-04-30T06:40:41.255Z;user45;NAGANO;Wiedza ogólna / encyklopedyczna;6;24.7;hint;0;0;6;1;189429;4491;false
+2026-04-30T06:40:42.065Z;user48;RONIN;Wiedza ogólna / encyklopedyczna;5;14.3;manual;4;5;1;0.2;202729;1039;false
+2026-04-30T06:40:43.778Z;user40;RĘCE;Metafora i gra słowna;4;10.1;manual;0;0;3;0.75;57632;1338;false
+2026-04-30T06:40:43.939Z;user43;RĘCE;Metafora i gra słowna;4;22.9;manual;0;1;2;0.5;49832;2004;false
+2026-04-30T06:40:44.436Z;user42;RĘCE;Metafora i gra słowna;4;12.1;manual;1;1;0;0;58734;277;true
+2026-04-30T06:40:45.082Z;user50;DONALD;Nazwy własne i popkultura;6;1.1;manual;0;0;0;0;97593;113;true
+2026-04-30T06:40:46.327Z;user52;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;2.6;manual;0;0;0;0;119862;261;true
+2026-04-30T06:40:46.981Z;user46;ZIARNO;Metafora i gra słowna;6;14.2;manual;0;0;4;0.67;32806;614;false
+2026-04-30T06:40:47.339Z;user40;ŁZA;Metafora i gra słowna;3;3.6;manual;0;0;0;0;67716;111;true
+2026-04-30T06:40:47.432Z;user44;LWICA;Metafora i gra słowna;5;5.2;hint;0;0;5;1;67497;891;false
+2026-04-30T06:40:48.111Z;user43;DONALD;Nazwy własne i popkultura;6;4.1;manual;0;0;0;0;72757;320;true
+2026-04-30T06:40:48.455Z;user42;ŁZA;Metafora i gra słowna;3;4.9;manual;1;2;0;0;69931;1224;true
+2026-04-30T06:40:49.446Z;user45;NAPIWEK;Definicje słownikowe;7;2.1;manual;0;0;0;0;3318;251;true
+2026-04-30T06:40:50.346Z;user46;DONALD;Nazwy własne i popkultura;6;3.4;manual;0;0;0;0;47052;193;true
+2026-04-30T06:40:51.817Z;user43;ŁZA;Metafora i gra słowna;3;3.7;manual;0;0;0;0;76900;199;true
+2026-04-30T06:40:53.234Z;user48;MARMOLADA;Definicje słownikowe;9;2.9;manual;0;0;0;0;5379;262;true
+2026-04-30T06:40:53.639Z;user40;DONALD;Nazwy własne i popkultura;6;6.3;manual;3;3;0;0;71288;326;true
+2026-04-30T06:40:55.124Z;user50;NAPIWEK;Definicje słownikowe;7;16;manual;0;0;0;0;92720;96;true
+2026-04-30T06:40:55.143Z;user41;PITT;Nazwy własne i popkultura;4;37.4;manual;2;5;0;0;5357;944;true
+2026-04-30T06:40:55.153Z;user46;NAPIWEK;Definicje słownikowe;7;4.8;manual;1;0;0;0;50428;306;true
+2026-04-30T06:40:57.034Z;user43;ZIARNO;Metafora i gra słowna;6;5.3;manual;0;0;0;0;80568;370;true
+2026-04-30T06:40:57.966Z;user42;ZIARNO;Metafora i gra słowna;6;9.5;manual;0;0;4;0.67;74849;1192;false
+2026-04-30T06:40:58.042Z;user46;ŁZA;Metafora i gra słowna;3;3.4;manual;0;1;0;0;54712;134;true
+2026-04-30T06:41:00.847Z;user45;MAKARONIZM;Metafora i gra słowna;10;11.4;manual;1;1;9;0.9;5393;558;false
+2026-04-30T06:41:00.961Z;user41;DONALD;Nazwy własne i popkultura;6;16.7;manual;0;1;0;0;31881;126;true
+2026-04-30T06:41:01.957Z;user40;PITT;Nazwy własne i popkultura;4;85.9;manual;2;2;3;0.75;25;1630;false
+2026-04-30T06:41:02.204Z;user43;PITT;Nazwy własne i popkultura;4;5.2;manual;2;3;0;0;85822;307;true
+2026-04-30T06:41:02.616Z;user51;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;21.6;manual;0;0;0;0;188792;261;true
+2026-04-30T06:41:02.836Z;user46;PITT;Nazwy własne i popkultura;4;4.8;manual;0;0;0;0;58125;150;true
+2026-04-30T06:41:06.205Z;user37;KRONOS;Wiedza ogólna / encyklopedyczna;6;100.1;manual;1;2;1;0.17;164900;6094;false
+2026-04-30T06:41:06.460Z;user51;RONDO;Definicje słownikowe;5;3.8;manual;1;1;0;0;210360;315;true
+2026-04-30T06:41:07.218Z;user48;PIEKŁO;Metafora i gra słowna;6;3.4;manual;0;0;0;0;18816;524;true
+2026-04-30T06:41:07.764Z;user46;PIEKŁO;Metafora i gra słowna;6;4.9;manual;0;0;0;0;62907;199;true
+2026-04-30T06:41:08.683Z;user42;MARMOLADA;Definicje słownikowe;9;10.7;manual;0;0;0;0;84367;184;true
+2026-04-30T06:41:11.255Z;user45;PITT;Nazwy własne i popkultura;4;10.4;hint;3;2;4;1;16798;618;false
+2026-04-30T06:41:11.813Z;user42;NAPIWEK;Definicje słownikowe;7;3.1;manual;0;0;0;0;95073;143;true
+2026-04-30T06:41:12.772Z;user49;GOETHE;Wiedza ogólna / encyklopedyczna;6;53.7;manual;9;14;1;0.17;189794;1138;false
+2026-04-30T06:41:13.843Z;user51;REPERACJA;Definicje słownikowe;9;7.4;manual;0;0;0;0;214202;202;true
+2026-04-30T06:41:14.068Z;user37;RONIN;Wiedza ogólna / encyklopedyczna;5;81.9;manual;4;4;1;0.2;191011;5241;false
+2026-04-30T06:41:14.848Z;user50;MARMOLADA;Definicje słownikowe;9;58.1;manual;10;13;0;0;70325;1614;true
+2026-04-30T06:41:17.745Z;user41;ZIARNO;Metafora i gra słowna;6;16.8;manual;1;0;0;0;48570;368;true
+2026-04-30T06:41:19.565Z;user48;RĘCE;Metafora i gra słowna;4;12.3;manual;1;1;0;0;22258;814;true
+2026-04-30T06:41:20.420Z;user45;MARMOLADA;Definicje słownikowe;9;11.9;manual;0;1;8;0.89;24431;442;false
+2026-04-30T06:41:22.725Z;user51;GOETHE;Wiedza ogólna / encyklopedyczna;6;120.7;manual;0;0;1;0.17;109763;20027;false
+2026-04-30T06:41:22.812Z;user48;DONALD;Nazwy własne i popkultura;6;3.3;manual;0;0;0;0;34603;285;true
+2026-04-30T06:41:23.887Z;user45;ŁZA;Metafora i gra słowna;3;3.5;manual;0;0;0;0;36362;207;true
+2026-04-30T06:41:28.224Z;user37;PIEKŁO;Metafora i gra słowna;6;4;manual;0;0;0;0;1606;261;true
+2026-04-30T06:41:28.226Z;user45;DONALD;Nazwy własne i popkultura;6;4.3;manual;2;2;0;0;39845;178;true
+2026-04-30T06:41:28.957Z;user48;NAPIWEK;Definicje słownikowe;7;6.1;manual;0;0;0;0;37854;394;true
+2026-04-30T06:41:30.439Z;user41;LWICA;Metafora i gra słowna;5;14.3;manual;1;2;0;0;63776;2362;true
+2026-04-30T06:41:30.895Z;user52;NAPIWEK;Definicje słownikowe;7;2.4;manual;0;0;0;0;3057;149;true
+2026-04-30T06:41:31.475Z;user51;RĘCE;Metafora i gra słowna;4;1.2;manual;0;0;0;0;4601;278;true
+2026-04-30T06:41:33.166Z;user45;RĘCE;Metafora i gra słowna;4;4.9;manual;0;0;3;0.75;44164;762;false
+2026-04-30T06:41:33.937Z;user37;MARMOLADA;Definicje słownikowe;9;5.7;manual;0;0;0;0;5585;197;true
+2026-04-30T06:41:36.970Z;user49;DNO;Definicje słownikowe;3;64.7;manual;0;2;0;0;203026;156;true
+2026-04-30T06:41:37.005Z;user37;DONALD;Nazwy własne i popkultura;6;3.1;manual;0;0;0;0;11291;211;true
+2026-04-30T06:41:40.941Z;user45;LWICA;Metafora i gra słowna;5;7.8;manual;0;0;4;0.8;49109;589;false
+2026-04-30T06:41:41.103Z;user41;ŁZA;Metafora i gra słowna;3;10.6;manual;0;0;0;0;78042;313;true
+2026-04-30T06:41:41.530Z;user51;ŁZA;Metafora i gra słowna;3;10.1;manual;3;4;0;0;5808;566;true
+2026-04-30T06:41:44.013Z;user51;ZIARNO;Metafora i gra słowna;6;8.7;manual;0;1;0;0;9654;125;true
+2026-04-30T06:41:47.294Z;user45;ZIARNO;Metafora i gra słowna;6;6.4;manual;0;0;0;0;56896;336;true
+2026-04-30T06:41:48.683Z;user41;MAKARONIZM;Metafora i gra słowna;10;96.3;manual;0;0;0;0;5;130;true
+2026-04-30T06:41:48.777Z;user51;NAPIWEK;Definicje słownikowe;7;4.8;manual;0;0;0;0;18334;253;true
+2026-04-30T06:41:50.379Z;user48;MAKARONIZM;Metafora i gra słowna;10;21.4;manual;0;0;5;0.5;43978;541;false
+2026-04-30T06:41:54.995Z;user45;PIEKŁO;Metafora i gra słowna;6;7.7;manual;2;2;3;0.5;63249;434;false
+2026-04-30T06:41:56.151Z;user49;MARMOLADA;Definicje słownikowe;9;4.5;manual;0;0;0;0;9599;240;true
+2026-04-30T06:41:59.022Z;user49;DONALD;Nazwy własne i popkultura;6;2.9;manual;0;0;0;0;14139;182;true
+2026-04-30T06:41:59.320Z;user51;PIEKŁO;Metafora i gra słowna;6;33.6;manual;0;0;0;0;6;228;true
+2026-04-30T06:42:00.607Z;user48;ŁZA;Metafora i gra słowna;3;10.2;manual;2;3;0;0;65413;814;true
+2026-04-30T06:42:01.144Z;user49;PITT;Nazwy własne i popkultura;4;2.1;manual;0;0;0;0;17020;141;true
+2026-04-30T06:42:01.250Z;user41;NAPIWEK;Definicje słownikowe;7;20.2;manual;0;0;0;0;88671;122;true
+2026-04-30T06:42:05.728Z;user52;DONALD;Nazwy własne i popkultura;6;1.8;manual;0;0;0;0;38546;220;true
+2026-04-30T06:42:06.924Z;user41;PIEKŁO;Metafora i gra słowna;6;5.7;manual;0;0;0;0;108847;223;true
+2026-04-30T06:42:09.973Z;user48;LWICA;Metafora i gra słowna;5;16.6;manual;0;0;0;0;70391;401;true
+2026-04-30T06:42:14.052Z;user48;PITT;Nazwy własne i popkultura;4;4.1;manual;0;0;0;0;87003;411;true
+2026-04-30T06:42:15.730Z;user41;RĘCE;Metafora i gra słowna;4;8.8;manual;0;0;0;0;114513;182;true
+2026-04-30T06:42:17.162Z;user52;LWICA;Metafora i gra słowna;5;46.3;manual;0;0;0;0;5481;211;true
+2026-04-30T06:42:18.488Z;user49;RĘCE;Metafora i gra słowna;4;17.3;manual;0;0;0;0;19156;475;true
+2026-04-30T06:42:19.166Z;user51;MAKARONIZM;Metafora i gra słowna;10;19.8;manual;0;0;0;0;33645;176;true
+2026-04-30T06:42:20.310Z;user37;ŁZA;Metafora i gra słowna;3;1.5;manual;0;0;0;0;56168;219;true
+2026-04-30T06:42:26.462Z;user51;LWICA;Metafora i gra słowna;5;7.3;manual;4;4;0;0;53491;285;true
+2026-04-30T06:42:36.353Z;user52;MAKARONIZM;Metafora i gra słowna;10;30.6;manual;0;0;0;0;40305;190;true
+2026-04-30T06:42:36.807Z;user51;MARMOLADA;Definicje słownikowe;9;12.9;manual;0;1;0;0;58246;206;true
+2026-04-30T06:42:37.451Z;user49;ZIARNO;Metafora i gra słowna;6;19;manual;0;0;0;0;36499;158;true
+2026-04-30T06:42:40.460Z;user51;PITT;Nazwy własne i popkultura;4;3.7;manual;0;0;0;0;71131;211;true
+2026-04-30T06:42:42.218Z;user49;NAPIWEK;Definicje słownikowe;7;4.8;manual;0;0;0;0;55451;164;true
+2026-04-30T06:42:44.995Z;user51;DONALD;Nazwy własne i popkultura;6;4.5;manual;0;0;0;0;74787;145;true
+2026-04-30T06:42:47.725Z;user49;PIEKŁO;Metafora i gra słowna;6;5.5;manual;0;0;0;0;60220;232;true
+2026-04-30T06:42:49.238Z;user52;PITT;Nazwy własne i popkultura;4;1.1;manual;0;0;0;0;82668;158;true
+2026-04-30T06:42:54.770Z;user52;MARMOLADA;Definicje słownikowe;9;18.4;manual;0;0;0;0;70938;153;true
+2026-04-30T06:42:59.842Z;user49;MAKARONIZM;Metafora i gra słowna;10;12.1;manual;0;0;0;0;65739;161;true
+2026-04-30T06:43:00.306Z;user60;RONIN;Wiedza ogólna / encyklopedyczna;5;2.1;manual;0;0;0;0;5887;221;true
+2026-04-30T06:43:02.568Z;user49;ŁZA;Metafora i gra słowna;3;2.7;manual;0;0;0;0;77851;209;true
+2026-04-30T06:43:06.224Z;user60;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;5.9;manual;0;0;0;0;8041;258;true
+2026-04-30T06:43:10.462Z;user37;NAPIWEK;Definicje słownikowe;7;33.7;manual;1;6;0;0;74065;221;true
+2026-04-30T06:43:10.924Z;user60;DNO;Definicje słownikowe;3;1.3;manual;0;0;0;0;17352;184;true
+2026-04-30T06:43:11.238Z;user52;PIEKŁO;Metafora i gra słowna;6;22;manual;6;5;0;0;83788;579;true
+2026-04-30T06:43:13.810Z;user57;KRONOS;Wiedza ogólna / encyklopedyczna;6;2.2;manual;0;0;0;0;120112;248;true
+2026-04-30T06:43:14.340Z;user37;PITT;Nazwy własne i popkultura;4;7.4;manual;0;1;0;0;104352;124;true
+2026-04-30T06:43:14.366Z;user60;NAGANO;Wiedza ogólna / encyklopedyczna;6;3.5;manual;0;0;0;0;18658;147;true
+2026-04-30T06:43:16.811Z;user49;LWICA;Metafora i gra słowna;5;14.3;manual;0;0;0;0;80573;156;true
+2026-04-30T06:43:18.522Z;user60;WDECH;Definicje słownikowe;5;4.1;manual;0;0;0;0;22121;250;true
+2026-04-30T06:43:20.621Z;user52;RĘCE;Metafora i gra słowna;4;92.2;manual;1;0;0;0;22946;1380;true
+2026-04-30T06:43:22.379Z;user60;KRONOS;Wiedza ogólna / encyklopedyczna;6;3.9;manual;0;0;0;0;26247;155;true
+2026-04-30T06:43:25.401Z;user52;ŁZA;Metafora i gra słowna;3;98.2;manual;1;0;0;0;21805;32424;true
+2026-04-30T06:43:29.249Z;user57;DNO;Definicje słownikowe;3;15.4;manual;0;0;0;0;122290;728;true
+2026-04-30T06:43:29.581Z;user60;REPERACJA;Definicje słownikowe;9;7.2;manual;0;0;0;0;30131;431;true
+2026-04-30T06:43:32.089Z;user52;ZIARNO;Metafora i gra słowna;6;16.7;manual;0;0;0;0;110019;109;true
+2026-04-30T06:43:32.254Z;user60;RONDO;Definicje słownikowe;5;2.7;manual;0;0;0;0;37330;155;true
+2026-04-30T06:43:34.312Z;user57;RONDO;Definicje słownikowe;5;5.1;manual;0;0;0;0;137732;439;true
+2026-04-30T06:43:39.386Z;user57;WDECH;Definicje słownikowe;5;5.1;manual;0;0;0;0;142785;471;true
+2026-04-30T06:43:51.136Z;user60;DONALD;Nazwy własne i popkultura;6;2.1;manual;0;0;0;0;3809;313;true
+2026-04-30T06:43:55.276Z;user60;NAPIWEK;Definicje słownikowe;7;4.1;manual;0;0;0;0;5935;235;true
+2026-04-30T06:43:58.036Z;user60;PITT;Nazwy własne i popkultura;4;2.8;manual;0;0;0;0;10074;183;true
+2026-04-30T06:44:03.331Z;user60;MARMOLADA;Definicje słownikowe;9;5.3;manual;0;0;0;0;12832;211;true
+2026-04-30T06:44:05.335Z;user57;AKIRA;Wiedza ogólna / encyklopedyczna;5;26;manual;0;0;0;0;147846;1006;true
+2026-04-30T06:44:06.569Z;user60;ŁZA;Metafora i gra słowna;3;3.2;manual;0;0;0;0;18118;620;true
+2026-04-30T06:44:11.338Z;user60;RĘCE;Metafora i gra słowna;4;4.8;manual;0;0;0;0;21360;376;true
+2026-04-30T06:44:32.043Z;user60;ZIARNO;Metafora i gra słowna;6;12.2;manual;0;0;3;0.5;34675;1593;false
+2026-04-30T06:44:40.818Z;user60;LWICA;Metafora i gra słowna;5;8.8;manual;0;0;0;0;46843;187;true
+2026-04-30T06:44:46.061Z;user60;PIEKŁO;Metafora i gra słowna;6;5.2;manual;0;0;0;0;55616;330;true
+2026-04-30T06:44:48.581Z;user57;NAGANO;Wiedza ogólna / encyklopedyczna;6;43.2;manual;0;0;1;0.17;173829;2483;false
+2026-04-30T06:44:49.917Z;user62;KRONOS;Wiedza ogólna / encyklopedyczna;6;14.8;manual;0;0;2;0.33;7538;1306;false
+2026-04-30T06:44:58.393Z;user62;RONDO;Definicje słownikowe;5;8.4;manual;0;0;0;0;22310;318;true
+2026-04-30T06:45:03.137Z;user62;WDECH;Definicje słownikowe;5;4.8;manual;0;0;0;0;30761;340;true
+2026-04-30T06:45:12.724Z;user62;REPERACJA;Definicje słownikowe;9;9.5;manual;0;0;0;0;35548;586;true
+2026-04-30T06:45:16.544Z;user62;DNO;Definicje słownikowe;3;3.8;manual;0;0;0;0;45092;376;true
+2026-04-30T06:45:27.167Z;user62;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;10.6;manual;0;0;0;0;48931;345;true
+2026-04-30T06:45:41.114Z;user62;NAGANO;Wiedza ogólna / encyklopedyczna;6;13.9;manual;1;0;2;0.33;59552;1287;false
+2026-04-30T06:45:52.623Z;user62;GOETHE;Wiedza ogólna / encyklopedyczna;6;11.5;manual;1;0;2;0.33;73480;1045;false
+2026-04-30T06:46:03.520Z;user62;RONIN;Wiedza ogólna / encyklopedyczna;5;10.9;hint;0;0;5;1;84999;1766;false
+2026-04-30T06:46:05.844Z;user57;REPERACJA;Definicje słownikowe;9;77.2;manual;3;16;1;0.11;217077;1589;false
+2026-04-30T06:46:19.480Z;user62;AKIRA;Wiedza ogólna / encyklopedyczna;5;107.1;hint;2;0;1;0.2;4759;10604;false
+2026-04-30T06:46:34.978Z;user62;NAPIWEK;Definicje słownikowe;7;8.5;manual;1;0;0;0;5252;550;true
+2026-04-30T06:46:35.738Z;user63;AKIRA;Wiedza ogólna / encyklopedyczna;5;87.9;manual;0;0;1;0.2;4197;8764;false
+2026-04-30T06:46:48.671Z;user62;MAKARONIZM;Metafora i gra słowna;10;15.5;manual;0;0;6;0.6;11896;1038;false
+2026-04-30T06:46:52.827Z;user57;RONIN;Wiedza ogólna / encyklopedyczna;5;112.9;manual;3;5;0;0;228442;7113;true
+2026-04-30T06:46:59.510Z;user62;LWICA;Metafora i gra słowna;5;10.8;manual;0;0;2;0.4;27415;1120;false
+2026-04-30T06:47:03.459Z;user62;DONALD;Nazwy własne i popkultura;6;3.9;manual;0;0;0;0;38264;313;true
+2026-04-30T06:47:06.969Z;user63;KRONOS;Wiedza ogólna / encyklopedyczna;6;31.2;manual;0;0;0;0;92115;449;true
+2026-04-30T06:47:16.328Z;user62;ZIARNO;Metafora i gra słowna;6;5.9;manual;0;0;0;0;49218;289;true
+2026-04-30T06:47:21.424Z;user62;ŁZA;Metafora i gra słowna;3;5.1;manual;1;0;0;0;55094;1009;true
+2026-04-30T06:47:25.494Z;user62;PITT;Nazwy własne i popkultura;4;6.6;manual;0;0;0;0;57680;277;true
+2026-04-30T06:47:31.270Z;user62;RĘCE;Metafora i gra słowna;4;5.8;manual;0;0;0;0;64257;779;true
+2026-04-30T06:47:44.054Z;user62;MARMOLADA;Definicje słownikowe;9;40.6;manual;8;0;1;0.11;42209;2270;false
+2026-04-30T06:47:44.943Z;user57;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;52.1;manual;12;14;0;0;341309;1411;true
+2026-04-30T06:47:53.949Z;user62;PIEKŁO;Metafora i gra słowna;6;89.5;manual;1;0;0;0;3180;12678;true
+2026-04-30T06:47:57.083Z;user63;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;50.1;manual;2;5;3;0.38;123334;2722;false
+2026-04-30T06:48:15.530Z;user57;ZIARNO;Metafora i gra słowna;6;2.7;manual;0;0;0;0;4247;227;true
+2026-04-30T06:48:21.060Z;user57;NAPIWEK;Definicje słownikowe;7;5.5;manual;1;1;0;0;6950;320;true
+2026-04-30T06:48:26.328Z;user57;DONALD;Nazwy własne i popkultura;6;5.3;manual;0;0;0;0;12480;207;true
+2026-04-30T06:49:30.975Z;user63;NAGANO;Wiedza ogólna / encyklopedyczna;6;104;hint;2;3;6;1;163359;6658;false
+2026-04-30T06:49:42.597Z;user57;MARMOLADA;Definicje słownikowe;9;76.3;manual;13;15;2;0.22;17745;1527;false
+2026-04-30T06:49:43.875Z;user63;DNO;Definicje słownikowe;3;23.9;manual;0;0;0;0;256401;183;true
+2026-04-30T06:50:01.800Z;user57;PITT;Nazwy własne i popkultura;4;59.3;manual;0;1;0;0;53879;280;true
+2026-04-30T06:50:20.046Z;user63;GOETHE;Wiedza ogólna / encyklopedyczna;6;5.3;manual;0;0;0;0;311171;376;true
+2026-04-30T06:50:26.419Z;user63;WDECH;Definicje słownikowe;5;6.4;manual;0;0;0;0;316437;373;true
+2026-04-30T06:50:31.401Z;user63;RONDO;Definicje słownikowe;5;5;manual;0;0;0;0;322824;263;true
+2026-04-30T06:50:42.880Z;user57;MAKARONIZM;Metafora i gra słowna;10;41.1;manual;8;9;1;0.1;113217;1227;false
+2026-04-30T06:50:47.859Z;user57;RĘCE;Metafora i gra słowna;4;1.8;manual;0;0;0;0;157499;376;true
+2026-04-30T06:50:57.250Z;user63;RONIN;Wiedza ogólna / encyklopedyczna;5;73.3;manual;1;4;4;0.8;280268;4660;false
+2026-04-30T06:50:59.285Z;user57;ŁZA;Metafora i gra słowna;3;44.9;manual;1;2;1;0.33;125852;11138;false
+2026-04-30T06:51:09.653Z;user57;PIEKŁO;Metafora i gra słowna;6;21.8;manual;0;0;0;0;159272;360;true
+2026-04-30T06:51:26.040Z;user63;REPERACJA;Definicje słownikowe;9;54.6;hint;6;6;9;1;327805;1186;false
+2026-04-30T06:51:53.134Z;user63;RĘCE;Metafora i gra słowna;4;5.6;manual;0;0;2;0.5;17199;1177;false
+2026-04-30T06:51:57.414Z;user57;LWICA;Metafora i gra słowna;5;58.1;manual;7;7;2;0.4;170705;1977;false
+2026-04-30T06:52:34.776Z;user63;NAPIWEK;Definicje słownikowe;7;34.5;manual;0;1;0;0;29926;175;true
+2026-04-30T06:54:19.062Z;user63;ZIARNO;Metafora i gra słowna;6;19.4;manual;0;0;2;0.33;149308;1394;false
+2026-04-30T06:54:37.269Z;user63;MAKARONIZM;Metafora i gra słowna;10;18.2;manual;5;5;5;0.5;168721;697;false
+2026-04-30T06:54:52.458Z;user63;DONALD;Nazwy własne i popkultura;6;202.1;manual;0;0;0;0;4;177;true
+2026-04-30T06:54:56.608Z;user63;PITT;Nazwy własne i popkultura;4;2.3;manual;0;0;0;0;203998;248;true
+2026-04-30T06:55:01.863Z;user67;DNO;Definicje słownikowe;3;2.8;manual;0;0;0;0;20602;808;true
+2026-04-30T06:55:03.247Z;user63;LWICA;Metafora i gra słowna;5;26;manual;0;0;2;0.4;186932;785;false
+2026-04-30T06:55:20.770Z;user67;RONIN;Wiedza ogólna / encyklopedyczna;5;18.9;manual;2;2;1;0.2;23448;587;false
+2026-04-30T06:55:33.413Z;user67;RONDO;Definicje słownikowe;5;7.3;manual;0;0;0;0;47727;194;true
+2026-04-30T06:56:01.696Z;user67;WDECH;Definicje słownikowe;5;6.5;manual;0;0;0;0;76781;226;true
+2026-04-30T06:56:23.666Z;user67;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;15.7;manual;0;0;0;0;89592;183;true
+2026-04-30T06:56:35.288Z;user67;AKIRA;Wiedza ogólna / encyklopedyczna;5;1.8;manual;0;0;0;0;115051;203;true
+2026-04-30T06:57:23.417Z;user67;LWICA;Metafora i gra słowna;5;7.8;manual;0;0;1;0.2;6047;1949;false
+2026-04-30T06:57:29.607Z;user69;AKIRA;Wiedza ogólna / encyklopedyczna;5;0.1;hint;0;0;5;1;4490;20;false
+2026-04-30T06:57:33.620Z;user67;PIEKŁO;Metafora i gra słowna;6;10.2;manual;0;0;0;0;13844;489;true
+2026-04-30T06:57:39.001Z;user67;ZIARNO;Metafora i gra słowna;6;5.4;manual;0;0;0;0;24051;229;true
+2026-04-30T06:57:45.742Z;user67;RĘCE;Metafora i gra słowna;4;6.7;manual;1;0;0;0;29425;1032;true
+2026-04-30T06:57:47.129Z;user69;KRONOS;Wiedza ogólna / encyklopedyczna;6;1.7;manual;0;0;0;0;20355;146;true
+2026-04-30T06:57:50.614Z;user67;ŁZA;Metafora i gra słowna;3;8.3;manual;0;0;0;0;32782;310;true
+2026-04-30T06:57:53.221Z;user69;RONIN;Wiedza ogólna / encyklopedyczna;5;6.1;manual;0;0;0;0;22095;970;true
+2026-04-30T06:57:55.202Z;user69;RONDO;Definicje słownikowe;5;2;manual;1;1;0;0;28177;155;true
+2026-04-30T06:57:57.913Z;user69;WDECH;Definicje słownikowe;5;2.7;manual;0;0;0;0;30164;179;true
+2026-04-30T06:58:00.917Z;user69;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;3;manual;0;0;0;0;32868;123;true
+2026-04-30T06:58:06.204Z;user69;GOETHE;Wiedza ogólna / encyklopedyczna;6;5.3;hint;0;0;6;1;35875;267;false
+2026-04-30T06:58:06.250Z;user67;PITT;Nazwy własne i popkultura;4;1.7;manual;0;0;0;0;55015;224;true
+2026-04-30T06:58:09.618Z;user69;REPERACJA;Definicje słownikowe;9;2.3;manual;0;0;0;0;42308;183;true
+2026-04-30T06:58:19.170Z;user69;NAGANO;Wiedza ogólna / encyklopedyczna;6;9.5;hint;9;10;6;1;44575;246;false
+2026-04-30T06:58:25.051Z;user69;DNO;Definicje słownikowe;3;11.8;hint;0;1;3;1;48215;401;false
+2026-04-30T06:58:30.651Z;user69;PIEKŁO;Metafora i gra słowna;6;1.8;manual;0;0;0;0;1955;183;true
+2026-04-30T06:58:31.151Z;user67;MARMOLADA;Definicje słownikowe;9;24.9;manual;18;18;1;0.11;56687;440;false
+2026-04-30T06:58:34.547Z;user67;DONALD;Nazwy własne i popkultura;6;19.9;manual;0;0;0;0;65030;204;true
+2026-04-30T06:58:35.163Z;user69;MAKARONIZM;Metafora i gra słowna;10;4.5;hint;1;1;10;1;3725;402;false
+2026-04-30T06:58:38.853Z;user67;NAPIWEK;Definicje słownikowe;7;4.3;manual;0;0;0;0;84981;253;true
+2026-04-30T06:58:38.971Z;user69;NAPIWEK;Definicje słownikowe;7;2;manual;0;0;0;0;10042;164;true
+2026-04-30T06:58:40.815Z;user69;RĘCE;Metafora i gra słowna;4;1.8;manual;0;0;0;0;12048;211;true
+2026-04-30T06:58:42.891Z;user69;DONALD;Nazwy własne i popkultura;6;2.1;manual;0;0;0;0;13883;132;true
+2026-04-30T06:58:47.654Z;user69;ZIARNO;Metafora i gra słowna;6;4.8;hint;0;0;6;1;15962;331;false
+2026-04-30T06:58:56.207Z;user69;MARMOLADA;Definicje słownikowe;9;7.8;manual;8;9;0;0;21461;241;true
+2026-04-30T06:58:59.146Z;user69;ŁZA;Metafora i gra słowna;3;7.9;manual;0;1;0;0;24275;189;true
+2026-04-30T06:59:01.385Z;user69;PITT;Nazwy własne i popkultura;4;2.2;manual;0;0;0;0;32218;132;true
+2026-04-30T06:59:05.411Z;user69;LWICA;Metafora i gra słowna;5;4;hint;0;0;5;1;34459;284;false
+2026-04-30T07:08:01.607Z;user71;RONDO;Definicje słownikowe;5;4.7;manual;0;0;0;0;9200;408;true
+2026-04-30T07:08:14.088Z;user71;DNO;Definicje słownikowe;3;19.7;manual;5;0;2;0.67;6716;2669;false
+2026-04-30T07:08:22.938Z;user71;RONIN;Wiedza ogólna / encyklopedyczna;5;21.3;hint;0;0;5;1;13943;720;false
+2026-04-30T07:08:35.208Z;user71;REPERACJA;Definicje słownikowe;9;9.2;hint;2;1;4;0.44;38382;764;false
+2026-04-30T07:08:47.648Z;user71;WDECH;Definicje słownikowe;5;14.4;manual;2;3;3;0.6;45535;588;false
+2026-04-30T07:08:57.488Z;user71;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;9.8;manual;2;2;2;0.25;59972;597;false
+2026-04-30T07:09:04.565Z;user71;AKIRA;Wiedza ogólna / encyklopedyczna;5;7.1;hint;0;0;5;1;69808;675;false
+2026-04-30T07:09:08.990Z;user71;GOETHE;Wiedza ogólna / encyklopedyczna;6;1.2;hint;0;0;6;1;80132;239;false
+2026-04-30T07:09:17.608Z;user71;NAGANO;Wiedza ogólna / encyklopedyczna;6;4.4;manual;1;1;3;0.5;85523;550;false
+2026-04-30T07:09:22.380Z;user71;KRONOS;Wiedza ogólna / encyklopedyczna;6;4.8;hint;0;0;6;1;89921;338;false
+2026-04-30T07:09:43.863Z;user71;PIEKŁO;Metafora i gra słowna;6;3.5;manual;0;0;0;0;15745;404;true
+2026-04-30T07:09:55.579Z;user71;ZIARNO;Metafora i gra słowna;6;11.7;hint;5;0;6;1;19261;908;false
+2026-04-30T07:10:03.012Z;user71;PITT;Nazwy własne i popkultura;4;2.6;manual;1;1;0;0;35823;469;true
+2026-04-30T07:10:12.326Z;user71;RĘCE;Metafora i gra słowna;4;9.3;manual;2;3;0;0;38415;849;true
+2026-04-30T07:10:20.292Z;user71;LWICA;Metafora i gra słowna;5;8;manual;1;1;2;0.4;47724;532;false
+2026-04-30T07:10:25.446Z;user71;MAKARONIZM;Metafora i gra słowna;10;5.1;hint;0;0;10;1;55724;255;false
+2026-04-30T07:10:31.881Z;user71;DONALD;Nazwy własne i popkultura;6;3.4;manual;0;0;0;0;63875;512;true
+2026-04-30T07:10:35.036Z;user68;WDECH;Definicje słownikowe;5;1.5;manual;0;0;0;0;824481;184;true
+2026-04-30T07:10:35.932Z;user71;ŁZA;Metafora i gra słowna;3;4;manual;0;0;0;0;67310;314;true
+2026-04-30T07:10:38.199Z;user68;RONDO;Definicje słownikowe;5;3.2;manual;0;0;0;0;825952;123;true
+2026-04-30T07:10:40.491Z;user68;DNO;Definicje słownikowe;3;2.3;manual;0;0;0;0;829124;100;true
+2026-04-30T07:10:42.299Z;user68;RONIN;Wiedza ogólna / encyklopedyczna;5;1.8;manual;0;0;0;0;831394;265;true
+2026-04-30T07:10:45.533Z;user71;MARMOLADA;Definicje słownikowe;9;9.6;hint;8;0;8;0.89;71341;395;false
+2026-04-30T07:10:48.244Z;user71;NAPIWEK;Definicje słownikowe;7;6.3;hint;0;0;7;1;77349;145;false
+2026-04-30T07:11:07.188Z;user68;REPERACJA;Definicje słownikowe;9;24.9;manual;0;0;0;0;833213;283;true
+2026-04-30T07:11:17.410Z;user68;GOETHE;Wiedza ogólna / encyklopedyczna;6;10.2;manual;0;0;0;0;858100;206;true
+2026-04-30T07:11:28.627Z;user68;NAGANO;Wiedza ogólna / encyklopedyczna;6;11.2;manual;0;0;0;0;868321;142;true
+2026-04-30T07:11:47.510Z;user68;KRONOS;Wiedza ogólna / encyklopedyczna;6;14;manual;0;0;0;0;884396;124;true
+2026-04-30T07:12:10.425Z;user68;AKIRA;Wiedza ogólna / encyklopedyczna;5;22.9;manual;10;12;0;0;898428;445;true
+2026-04-30T07:12:43.919Z;user68;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;75.3;manual;1;9;0;0;879543;3120;true
+2026-04-30T07:12:44.534Z;user68;RĘCE;Metafora i gra słowna;4;2;manual;0;0;0;0;259994;369;true
+2026-04-30T07:12:44.227Z;user68;ŁZA;Metafora i gra słowna;3;2.7;manual;1;2;0;0;262023;195;true
+2026-04-30T07:12:45.537Z;user68;ZIARNO;Metafora i gra słowna;6;4.3;manual;1;0;0;0;264719;334;true
+2026-04-30T07:12:46.239Z;user68;PIEKŁO;Metafora i gra słowna;6;5.3;manual;1;2;0;0;267430;753;true
+2026-04-30T07:12:46.441Z;user68;DONALD;Nazwy własne i popkultura;6;3.2;manual;0;0;0;0;272731;179;true
+2026-04-30T07:12:47.105Z;user68;MAKARONIZM;Metafora i gra słowna;10;5.7;manual;1;0;0;0;275935;209;true
+2026-04-30T07:12:47.622Z;user68;LWICA;Metafora i gra słowna;5;3.3;manual;0;1;0;0;280765;140;true
+2026-04-30T07:12:47.055Z;user68;MARMOLADA;Definicje słownikowe;9;3.4;manual;0;0;0;0;284114;189;true
+2026-04-30T07:12:47.306Z;user68;PITT;Nazwy własne i popkultura;4;2.3;manual;0;0;0;0;287538;175;true
+2026-04-30T07:13:47.926Z;user68;NAPIWEK;Definicje słownikowe;7;3.6;manual;1;1;0;0;289802;265;true
+2026-04-30T07:43:14.576Z;user75;RONDO;Definicje słownikowe;5;1;manual;0;0;0;0;87482;125;true
+2026-04-30T07:43:24.320Z;user75;RONIN;Wiedza ogólna / encyklopedyczna;5;3;manual;0;0;0;0;95206;154;true
+2026-04-30T07:43:29.430Z;user75;DNO;Definicje słownikowe;3;5.1;manual;0;0;0;0;98190;145;true
+2026-04-30T07:43:35.957Z;user75;AKIRA;Wiedza ogólna / encyklopedyczna;5;6.5;manual;0;0;0;0;103319;425;true
+2026-04-30T07:43:43.242Z;user75;KRONOS;Wiedza ogólna / encyklopedyczna;6;7.3;manual;0;0;0;0;109827;344;true
+2026-04-30T07:43:48.835Z;user75;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;5.6;manual;0;0;0;0;117112;197;true
+2026-04-30T07:43:57.918Z;user75;NAGANO;Wiedza ogólna / encyklopedyczna;6;9.1;manual;0;0;0;0;122700;196;true
+2026-04-30T07:44:13.724Z;user75;WDECH;Definicje słownikowe;5;0.7;manual;0;0;0;0;146873;145;true
+2026-04-30T07:45:25.085Z;user75;ZIARNO;Metafora i gra słowna;6;3.6;manual;1;0;0;0;41817;544;true
+2026-04-30T07:45:26.632Z;user75;NAPIWEK;Definicje słownikowe;7;3.9;manual;0;0;0;0;43040;143;true
+2026-04-30T07:45:31.220Z;user75;RĘCE;Metafora i gra słowna;4;4.6;manual;1;2;0;0;46947;308;true
+2026-04-30T07:45:43.545Z;user75;PIEKŁO;Metafora i gra słowna;6;6.8;manual;2;0;0;0;57084;427;true
+2026-04-30T07:45:48.755Z;user75;MARMOLADA;Definicje słownikowe;9;8.3;manual;0;2;0;0;60801;240;true
+2026-04-30T07:45:53.962Z;user75;ŁZA;Metafora i gra słowna;3;5.2;manual;1;0;0;0;69073;823;true
+2026-04-30T07:46:00.802Z;user75;LWICA;Metafora i gra słowna;5;8.8;manual;0;0;0;0;72348;215;true
+2026-04-30T07:46:04.730Z;user75;PITT;Nazwy własne i popkultura;4;3.9;manual;0;0;0;0;81117;242;true
+2026-04-30T07:46:09.362Z;user75;DONALD;Nazwy własne i popkultura;6;4.6;manual;0;0;0;0;85046;219;true
+2026-04-30T07:46:37.201Z;user75;MAKARONIZM;Metafora i gra słowna;10;68.3;manual;12;5;0;0;49249;2412;true
+2026-04-30T07:50:12.622Z;user76;RONIN;Wiedza ogólna / encyklopedyczna;5;3;manual;0;0;0;0;19588;468;true
+2026-04-30T07:51:19.009Z;user76;GOETHE;Wiedza ogólna / encyklopedyczna;6;66.4;manual;0;0;0;0;22632;2980;true
+2026-04-30T07:52:00.209Z;user76;NAGANO;Wiedza ogólna / encyklopedyczna;6;9.2;manual;0;0;0;0;121051;213;true
+2026-04-30T07:52:48.664Z;user76;KRONOS;Wiedza ogólna / encyklopedyczna;6;29.3;manual;3;9;0;0;149393;537;true
+2026-04-30T07:53:08.337Z;user76;WDECH;Definicje słownikowe;5;13.6;manual;5;5;0;0;184733;518;true
+2026-04-30T07:53:25.755Z;user76;RONDO;Definicje słownikowe;5;2;manual;0;0;0;0;213595;276;true
+2026-04-30T08:00:26.076Z;user77;RONDO;Definicje słownikowe;5;2.9;manual;2;1;0;0;17101;292;true
+2026-04-30T08:00:33.970Z;user77;WDECH;Definicje słownikowe;5;9.9;manual;4;8;0;0;17967;820;true
+2026-04-30T08:00:46.579Z;user77;KRONOS;Wiedza ogólna / encyklopedyczna;6;12.6;hint;0;0;6;1;27872;467;false
+2026-04-30T08:00:56.162Z;user77;REPERACJA;Definicje słownikowe;9;2.4;hint;0;0;9;1;47723;294;false
+2026-04-30T08:01:03.466Z;user77;NAGANO;Wiedza ogólna / encyklopedyczna;6;3;hint;1;0;1;0.17;54437;383;false
+2026-04-30T08:01:08.958Z;user77;DNO;Definicje słownikowe;3;6.4;hint;0;0;3;1;56455;299;false
+2026-04-30T08:01:16.594Z;user77;RONIN;Wiedza ogólna / encyklopedyczna;5;1;hint;0;0;5;1;69525;249;false
+2026-04-30T08:01:22.932Z;user77;ŁZA;Metafora i gra słowna;3;1.3;manual;0;0;0;0;2625;291;true
+2026-04-30T08:01:27.631Z;user77;PIEKŁO;Metafora i gra słowna;6;4.7;manual;0;0;0;0;3918;146;true
+2026-04-30T08:01:33.970Z;user77;RĘCE;Metafora i gra słowna;4;6.3;manual;0;0;3;0.75;8615;787;false
+2026-04-30T08:01:39.190Z;user77;PITT;Nazwy własne i popkultura;4;5.2;hint;0;0;4;1;14943;203;false
+2026-04-30T08:01:44.496Z;user77;MARMOLADA;Definicje słownikowe;9;2.7;manual;0;0;0;0;22738;139;true
+2026-04-30T08:02:00.774Z;user77;ZIARNO;Metafora i gra słowna;6;2.7;manual;0;0;5;0.83;39025;547;false
+2026-04-30T08:02:04.906Z;user77;DONALD;Nazwy własne i popkultura;6;4.1;manual;0;0;0;0;41762;106;true
+2026-04-30T08:02:08.722Z;user77;NAPIWEK;Definicje słownikowe;7;3.8;manual;0;0;0;0;45884;160;true
+2026-04-30T08:02:16.319Z;user77;MAKARONIZM;Metafora i gra słowna;10;7.6;hint;0;0;10;1;49722;242;false
+2026-04-30T08:04:00.710Z;user78;GOETHE;Wiedza ogólna / encyklopedyczna;6;6;manual;0;0;0;0;40305;305;true
+2026-04-30T08:04:13.529Z;user78;REPERACJA;Definicje słownikowe;9;7.1;manual;0;0;0;0;52018;361;true
+2026-04-30T08:04:19.354Z;user78;RONDO;Definicje słownikowe;5;5.8;manual;3;3;0;0;59160;344;true
+2026-04-30T08:04:23.058Z;user78;WDECH;Definicje słownikowe;5;3.7;manual;0;0;0;0;64958;245;true
+2026-04-30T08:05:02.784Z;user78;AKIRA;Wiedza ogólna / encyklopedyczna;5;2.7;manual;0;0;0;0;105663;476;true
+2026-04-30T08:06:22.211Z;user82;KRONOS;Wiedza ogólna / encyklopedyczna;6;2.4;manual;0;0;0;0;12995;294;true
+2026-04-30T08:06:25.930Z;user78;NAPIWEK;Definicje słownikowe;7;3;manual;0;0;0;0;2780;285;true
+2026-04-30T08:06:26.254Z;user81;WDECH;Definicje słownikowe;5;8.2;manual;0;0;0;0;75530;222;true
+2026-04-30T08:06:31.312Z;user78;MARMOLADA;Definicje słownikowe;9;5.4;manual;0;0;0;0;5786;301;true
+2026-04-30T08:06:35.693Z;user78;PITT;Nazwy własne i popkultura;4;4.3;manual;0;0;0;0;11189;312;true
+2026-04-30T08:06:36.319Z;user82;WDECH;Definicje słownikowe;5;14.1;manual;7;10;0;0;15411;440;true
+2026-04-30T08:06:55.188Z;user81;RONDO;Definicje słownikowe;5;29;manual;0;0;0;0;83690;106;true
+2026-04-30T08:06:56.844Z;user78;ŁZA;Metafora i gra słowna;3;2.3;manual;0;0;0;0;34424;414;true
+2026-04-30T08:07:03.092Z;user78;RĘCE;Metafora i gra słowna;4;6.3;manual;1;1;0;0;36685;849;true
+2026-04-30T08:07:05.578Z;user83;RONDO;Definicje słownikowe;5;1.5;manual;0;0;0;0;32618;287;true
+2026-04-30T08:07:05.754Z;user82;RONIN;Wiedza ogólna / encyklopedyczna;5;55.9;manual;0;0;0;0;3037;179;true
+2026-04-30T08:07:09.156Z;user81;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;1.9;manual;0;0;0;0;124675;207;true
+2026-04-30T08:07:13.485Z;user82;NAGANO;Wiedza ogólna / encyklopedyczna;6;45;hint;10;7;5;0.83;21624;1139;false
+2026-04-30T08:07:17.246Z;user78;DONALD;Nazwy własne i popkultura;6;5;manual;4;4;0;0;52122;321;true
+2026-04-30T08:07:20.605Z;user83;WDECH;Definicje słownikowe;5;3.8;manual;0;1;0;0;45339;144;true
+2026-04-30T08:07:20.617Z;user82;DNO;Definicje słownikowe;3;32.4;manual;3;4;0;0;41452;3723;true
+2026-04-30T08:07:26.670Z;user78;ZIARNO;Metafora i gra słowna;6;9.4;manual;0;0;0;0;57095;473;true
+2026-04-30T08:07:31.330Z;user82;AKIRA;Wiedza ogólna / encyklopedyczna;5;39.6;hint;2;3;5;1;44919;4934;false
+2026-04-30T08:07:33.940Z;user78;PIEKŁO;Metafora i gra słowna;6;7.2;manual;1;2;0;0;66543;505;true
+2026-04-30T08:07:44.533Z;user82;RONDO;Definicje słownikowe;5;1.1;manual;0;0;0;0;96636;156;true
+2026-04-30T08:07:49.953Z;user81;REPERACJA;Definicje słownikowe;9;164.6;hint;3;6;9;1;2797;627;false
+2026-04-30T08:07:51.001Z;user82;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;1;hint;0;0;8;1;103190;144;false
+2026-04-30T08:07:54.326Z;user81;KRONOS;Wiedza ogólna / encyklopedyczna;6;13;hint;0;1;6;1;158759;339;false
+2026-04-30T08:07:56.875Z;user81;DNO;Definicje słownikowe;3;100.3;hint;9;9;3;1;74017;4980;false
+2026-04-30T08:08:00.299Z;user82;REPERACJA;Definicje słownikowe;9;15.8;hint;0;0;9;1;97732;507;false
+2026-04-30T08:08:01.111Z;user81;AKIRA;Wiedza ogólna / encyklopedyczna;5;65.9;hint;0;0;5;1;112648;321;false
+2026-04-30T08:08:02.297Z;user82;GOETHE;Wiedza ogólna / encyklopedyczna;6;0.8;hint;0;0;6;1;114762;150;false
+2026-04-30T08:08:04.495Z;user81;RONIN;Wiedza ogólna / encyklopedyczna;5;1.5;hint;0;0;5;1;180396;385;false
+2026-04-30T08:08:07.415Z;user81;NAGANO;Wiedza ogólna / encyklopedyczna;6;1.4;hint;0;0;6;1;183478;274;false
+2026-04-30T08:08:10.037Z;user81;GOETHE;Wiedza ogólna / encyklopedyczna;6;1.4;hint;0;0;6;1;186129;272;false
+2026-04-30T08:08:14.193Z;user83;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;89.2;hint;15;21;8;1;13605;2385;false
+2026-04-30T08:08:16.891Z;user82;DONALD;Nazwy własne i popkultura;6;1.7;manual;0;0;0;0;7586;234;true
+2026-04-30T08:08:17.338Z;user81;ŁZA;Metafora i gra słowna;3;1.1;manual;0;0;0;0;2553;163;true
+2026-04-30T08:08:17.418Z;user85;RONDO;Definicje słownikowe;5;1;manual;0;0;0;0;31231;94;true
+2026-04-30T08:08:20.456Z;user81;PITT;Nazwy własne i popkultura;4;3.1;manual;0;0;0;0;3704;125;true
+2026-04-30T08:08:23.531Z;user83;RONIN;Wiedza ogólna / encyklopedyczna;5;7;hint;0;0;5;1;105049;1762;false
+2026-04-30T08:08:27.133Z;user82;LWICA;Metafora i gra słowna;5;0.7;hint;0;0;5;1;18769;186;false
+2026-04-30T08:08:29.020Z;user83;KRONOS;Wiedza ogólna / encyklopedyczna;6;83.5;hint;6;6;6;1;34121;4352;false
+2026-04-30T08:08:29.183Z;user82;MAKARONIZM;Metafora i gra słowna;10;12.3;hint;0;0;10;1;9263;131;false
+2026-04-30T08:08:29.775Z;user81;MAKARONIZM;Metafora i gra słowna;10;9.3;hint;0;0;10;1;6820;318;false
+2026-04-30T08:08:33.900Z;user83;REPERACJA;Definicje słownikowe;9;73.3;hint;0;0;9;1;49166;387;false
+2026-04-30T08:08:34.628Z;user85;REPERACJA;Definicje słownikowe;9;17.2;manual;0;0;1;0.11;32279;1432;false
+2026-04-30T08:08:37.988Z;user82;PITT;Nazwy własne i popkultura;4;1;manual;0;0;0;0;29328;161;true
+2026-04-30T08:08:38.361Z;user83;AKIRA;Wiedza ogólna / encyklopedyczna;5;48.8;hint;0;3;5;1;78151;275;false
+2026-04-30T08:08:40.526Z;user81;NAPIWEK;Definicje słownikowe;7;7.5;manual;2;2;4;0.57;19432;433;false
+2026-04-30T08:08:43.425Z;user82;ZIARNO;Metafora i gra słowna;6;5.5;manual;0;0;0;0;30350;131;true
+2026-04-30T08:08:44.573Z;user85;KRONOS;Wiedza ogólna / encyklopedyczna;6;9.9;manual;0;0;1;0.17;49484;553;false
+2026-04-30T08:08:44.604Z;user83;NAGANO;Wiedza ogólna / encyklopedyczna;6;61;hint;5;6;6;1;72154;3845;false
+2026-04-30T08:08:45.921Z;user81;LWICA;Metafora i gra słowna;5;5.4;hint;0;0;5;1;26906;258;false
+2026-04-30T08:08:47.597Z;user83;DNO;Definicje słownikowe;3;69.6;hint;0;0;3;1;66575;262;false
+2026-04-30T08:08:49.077Z;user82;RĘCE;Metafora i gra słowna;4;5.7;manual;1;2;0;0;35801;243;true
+2026-04-30T08:08:51.953Z;user81;PIEKŁO;Metafora i gra słowna;6;2.3;manual;0;0;4;0.67;35987;467;false
+2026-04-30T08:08:52.236Z;user82;ŁZA;Metafora i gra słowna;3;4.9;manual;0;1;0;0;39748;196;true
+2026-04-30T08:08:54.766Z;user81;RĘCE;Metafora i gra słowna;4;2.8;manual;0;0;0;0;38320;171;true
+2026-04-30T08:08:55.173Z;user83;GOETHE;Wiedza ogólna / encyklopedyczna;6;78.3;hint;0;0;6;1;65438;241;false
+2026-04-30T08:08:59.033Z;user81;DONALD;Nazwy własne i popkultura;6;4.3;manual;0;0;0;0;41143;234;true
+2026-04-30T08:09:01.333Z;user85;WDECH;Definicje słownikowe;5;16.8;manual;4;5;1;0.2;59423;1060;false
+2026-04-30T08:09:01.822Z;user82;MARMOLADA;Definicje słownikowe;9;9.6;manual;5;9;0;0;44606;258;true
+2026-04-30T08:09:03.955Z;user81;ZIARNO;Metafora i gra słowna;6;4.9;manual;0;0;0;0;45396;239;true
+2026-04-30T08:09:05.727Z;user85;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;18.5;manual;1;2;0;0;62025;2053;true
+2026-04-30T08:09:08.513Z;user81;MARMOLADA;Definicje słownikowe;9;4.5;manual;0;0;0;0;50311;135;true
+2026-04-30T08:09:10.951Z;user85;RONIN;Wiedza ogólna / encyklopedyczna;5;5.2;hint;0;0;5;1;80574;651;false
+2026-04-30T08:09:12.646Z;user82;NAPIWEK;Definicje słownikowe;7;10.8;manual;0;0;0;0;54207;179;true
+2026-04-30T08:09:13.875Z;user83;PIEKŁO;Metafora i gra słowna;6;3.2;manual;1;1;0;0;12394;272;true
+2026-04-30T08:09:18.050Z;user82;PIEKŁO;Metafora i gra słowna;6;1.4;manual;0;0;0;0;68982;174;true
+2026-04-30T08:09:25.058Z;user85;NAGANO;Wiedza ogólna / encyklopedyczna;6;10.8;hint;5;5;6;1;89151;637;false
+2026-04-30T08:09:26.042Z;user83;ŁZA;Metafora i gra słowna;3;1.5;manual;0;0;0;0;26264;175;true
+2026-04-30T08:09:34.643Z;user85;GOETHE;Wiedza ogólna / encyklopedyczna;6;6.2;hint;6;0;6;1;103323;500;false
+2026-04-30T08:09:40.097Z;user83;LWICA;Metafora i gra słowna;5;12.3;hint;5;7;5;1;29504;515;false
+2026-04-30T08:09:45.998Z;user83;PITT;Nazwy własne i popkultura;4;1.5;manual;0;0;0;0;46296;148;true
+2026-04-30T08:10:06.302Z;user83;MAKARONIZM;Metafora i gra słowna;10;13.8;hint;1;3;10;1;54274;1048;false
+2026-04-30T08:10:11.494Z;user83;NAPIWEK;Definicje słownikowe;7;25.5;hint;5;7;7;1;47748;980;false
+2026-04-30T08:10:19.320Z;user85;DNO;Definicje słownikowe;3;135.7;hint;3;0;3;1;18480;26832;false
+2026-04-30T08:10:32.792Z;user87;KRONOS;Wiedza ogólna / encyklopedyczna;6;4.2;manual;0;0;0;0;3564;174;true
+2026-04-30T08:10:36.948Z;user83;MARMOLADA;Definicje słownikowe;9;23.8;hint;18;12;8;0.89;74920;555;false
+2026-04-30T08:10:38.604Z;user85;MARMOLADA;Definicje słownikowe;9;8.8;manual;0;0;0;0;8451;188;true
+2026-04-30T08:10:39.504Z;user87;GOETHE;Wiedza ogólna / encyklopedyczna;6;6.7;hint;0;0;6;1;7731;596;false
+2026-04-30T08:10:43.207Z;user83;RĘCE;Metafora i gra słowna;4;25.1;manual;3;6;0;0;79867;1662;true
+2026-04-30T08:10:44.714Z;user85;PITT;Nazwy własne i popkultura;4;6.1;hint;0;4;4;1;17237;440;false
+2026-04-30T08:10:46.131Z;user83;DONALD;Nazwy własne i popkultura;6;5.4;manual;0;1;0;0;102501;121;true
+2026-04-30T08:10:47.005Z;user87;NAGANO;Wiedza ogólna / encyklopedyczna;6;5.3;hint;0;0;6;1;16654;597;false
+2026-04-30T08:10:50.248Z;user87;RONDO;Definicje słownikowe;5;1.1;manual;0;0;0;0;24122;131;true
+2026-04-30T08:10:50.567Z;user83;ZIARNO;Metafora i gra słowna;6;98.4;hint;5;7;6;1;13935;6131;false
+2026-04-30T08:10:51.729Z;user85;NAPIWEK;Definicje słownikowe;7;5.6;manual;2;2;0;0;24783;251;true
+2026-04-30T08:10:56.467Z;user85;DONALD;Nazwy własne i popkultura;6;6.7;manual;0;1;0;0;28411;170;true
+2026-04-30T08:10:57.349Z;user87;RONIN;Wiedza ogólna / encyklopedyczna;5;7.1;hint;0;0;5;1;25197;425;false
+2026-04-30T08:11:04.166Z;user87;REPERACJA;Definicje słownikowe;9;5.6;hint;0;0;9;1;33510;326;false
+2026-04-30T08:11:04.881Z;user85;MAKARONIZM;Metafora i gra słowna;10;8.4;hint;0;0;10;1;35093;473;false
+2026-04-30T08:11:08.742Z;user85;ZIARNO;Metafora i gra słowna;6;1;manual;0;0;0;0;46342;124;true
+2026-04-30T08:11:10.758Z;user85;ŁZA;Metafora i gra słowna;3;2;manual;0;0;0;0;47373;234;true
+2026-04-30T08:11:24.838Z;user85;LWICA;Metafora i gra słowna;5;14.1;hint;0;0;5;1;49397;1032;false
+2026-04-30T08:11:30.878Z;user87;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;25.7;hint;13;14;8;1;40168;660;false
+2026-04-30T08:11:35.283Z;user87;DNO;Definicje słownikowe;3;11.8;manual;1;2;0;0;58378;2945;true
+2026-04-30T08:11:38.260Z;user87;WDECH;Definicje słownikowe;5;3;manual;0;0;0;0;70215;151;true
+2026-04-30T08:11:39.763Z;user85;PIEKŁO;Metafora i gra słowna;6;4.7;manual;1;0;0;0;73715;548;true
+2026-04-30T08:11:42.238Z;user87;AKIRA;Wiedza ogólna / encyklopedyczna;5;4;hint;0;0;5;1;73190;205;false
+2026-04-30T08:11:43.855Z;user85;RĘCE;Metafora i gra słowna;4;6.2;manual;0;0;0;0;76250;234;true
+2026-04-30T08:11:50.950Z;user87;RĘCE;Metafora i gra słowna;4;4.7;hint;1;3;4;1;1499;285;false
+2026-04-30T08:11:55.857Z;user87;NAPIWEK;Definicje słownikowe;7;7.6;manual;2;2;0;0;3574;221;true
+2026-04-30T08:12:02.452Z;user87;PIEKŁO;Metafora i gra słowna;6;7.6;hint;2;2;3;0.5;10177;396;false
+2026-04-30T08:12:12.361Z;user87;MARMOLADA;Definicje słownikowe;9;13.5;hint;8;10;9;1;14171;257;false
+2026-04-30T08:12:21.356Z;user87;LWICA;Metafora i gra słowna;5;14.9;hint;0;0;5;1;21746;239;false
+2026-04-30T08:12:27.312Z;user87;ZIARNO;Metafora i gra słowna;6;2.7;manual;0;0;0;0;39884;129;true
+2026-04-30T08:12:31.515Z;user87;DONALD;Nazwy własne i popkultura;6;4.2;manual;0;0;0;0;42597;121;true
+2026-04-30T08:12:37.820Z;user87;MAKARONIZM;Metafora i gra słowna;10;6.3;hint;0;0;10;1;46808;241;false
+2026-04-30T08:12:43.220Z;user87;PITT;Nazwy własne i popkultura;4;4.3;manual;0;0;0;0;54250;143;true
+2026-04-30T08:12:51.596Z;user87;ŁZA;Metafora i gra słowna;3;8.4;manual;3;3;3;1;58503;435;false
+2026-04-30T08:13:13.177Z;user88;AKIRA;Wiedza ogólna / encyklopedyczna;5;1.8;manual;0;0;0;0;17408;316;true
+2026-04-30T08:13:18.648Z;user88;DNO;Definicje słownikowe;3;5.5;manual;0;0;1;0.33;19174;1100;false
+2026-04-30T08:13:30.548Z;user85;NAGANO;Wiedza ogólna / encyklopedyczna;6;5.6;hint;0;0;6;1;52256;564;false
+2026-04-30T08:13:31.534Z;user88;KRONOS;Wiedza ogólna / encyklopedyczna;6;12.9;manual;0;0;4;0.67;24643;2202;false
+2026-04-30T08:13:39.425Z;user85;AKIRA;Wiedza ogólna / encyklopedyczna;5;7.2;hint;0;0;5;1;59564;903;false
+2026-04-30T08:13:42.489Z;user88;GOETHE;Wiedza ogólna / encyklopedyczna;6;11;manual;4;0;1;0.17;37518;806;false
+2026-04-30T08:13:52.342Z;user85;GOETHE;Wiedza ogólna / encyklopedyczna;6;5.1;manual;0;0;0;0;74618;392;true
+2026-04-30T08:13:54.265Z;user88;RONDO;Definicje słownikowe;5;11.8;manual;0;0;0;0;48485;144;true
+2026-04-30T08:13:57.295Z;user85;KRONOS;Wiedza ogólna / encyklopedyczna;6;5;manual;0;0;0;0;79693;145;true
+2026-04-30T08:14:02.347Z;user88;RONIN;Wiedza ogólna / encyklopedyczna;5;8.1;manual;0;0;4;0.8;60248;1581;false
+2026-04-30T08:14:05.081Z;user85;REPERACJA;Definicje słownikowe;9;7.8;manual;2;3;0;0;84650;411;true
+2026-04-30T08:14:07.444Z;user88;NAGANO;Wiedza ogólna / encyklopedyczna;6;5.1;manual;0;0;0;0;68333;182;true
+2026-04-30T08:14:18.707Z;user88;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;11.2;manual;0;0;3;0.38;73452;1088;false
+2026-04-30T08:14:30.373Z;user88;REPERACJA;Definicje słownikowe;9;11.7;manual;4;1;3;0.33;84689;605;false
+2026-04-30T08:14:35.394Z;user88;WDECH;Definicje słownikowe;5;9.9;manual;0;0;2;0.4;91456;790;false
+2026-04-30T08:15:22.614Z;user88;MARMOLADA;Definicje słownikowe;9;9.2;manual;0;0;3;0.33;35368;1145;false
+2026-04-30T08:15:30.815Z;user88;LWICA;Metafora i gra słowna;5;8.2;manual;0;0;1;0.2;44529;1283;false
+2026-04-30T08:15:35.496Z;user88;ŁZA;Metafora i gra słowna;3;4.7;manual;0;0;0;0;52730;242;true
+2026-04-30T08:15:37.738Z;user88;PITT;Nazwy własne i popkultura;4;2.2;manual;0;0;0;0;57395;136;true
+2026-04-30T08:15:39.681Z;user88;NAPIWEK;Definicje słownikowe;7;1.9;manual;0;0;0;0;59644;114;true
+2026-04-30T08:15:56.866Z;user88;MAKARONIZM;Metafora i gra słowna;10;17.2;manual;9;0;5;0.5;61585;720;false
+2026-04-30T08:16:00.999Z;user88;PIEKŁO;Metafora i gra słowna;6;4.1;manual;0;0;0;0;78763;205;true
+2026-04-30T08:16:04.934Z;user88;RĘCE;Metafora i gra słowna;4;3.9;manual;0;0;0;0;82899;544;true
+2026-04-30T08:16:07.162Z;user88;DONALD;Nazwy własne i popkultura;6;2.2;manual;0;0;0;0;86836;112;true
+2026-04-30T08:16:11.438Z;user88;ZIARNO;Metafora i gra słowna;6;4.3;manual;0;0;0;0;89078;133;true
+2026-04-30T08:29:03.976Z;user92;GOETHE;Wiedza ogólna / encyklopedyczna;6;20.3;manual;0;0;3;0.5;7775;1531;false
+2026-04-30T08:29:06.853Z;user92;AKIRA;Wiedza ogólna / encyklopedyczna;5;26.5;manual;1;0;0;0;4460;4992;true
+2026-04-30T08:29:15.230Z;user92;KRONOS;Wiedza ogólna / encyklopedyczna;6;11.2;manual;0;0;1;0.17;28075;982;false
+2026-04-30T08:29:22.505Z;user92;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;7.3;manual;0;0;0;0;39316;235;true
+2026-04-30T08:29:51.189Z;user92;NAGANO;Wiedza ogólna / encyklopedyczna;6;28.7;manual;4;0;2;0.33;46595;1733;false
+2026-04-30T08:29:55.357Z;user92;DNO;Definicje słownikowe;3;12;manual;0;0;0;0;67411;152;true
+2026-04-30T08:29:59.597Z;user92;RONDO;Definicje słownikowe;5;4.3;manual;0;0;0;0;79438;373;true
+2026-04-30T08:30:09.667Z;user92;RONIN;Wiedza ogólna / encyklopedyczna;5;10.1;manual;0;0;1;0.2;83691;1195;false
+2026-04-30T08:30:28.675Z;user92;REPERACJA;Definicje słownikowe;9;19;hint;1;0;2;0.22;93756;1397;false
+2026-04-30T08:30:34.113Z;user92;WDECH;Definicje słownikowe;5;10.7;manual;0;0;0;0;107491;233;true
+2026-04-30T08:30:37.762Z;user93;AKIRA;Wiedza ogólna / encyklopedyczna;5;5.2;hint;0;0;5;1;12300;1300;false
+2026-04-30T08:30:43.353Z;user92;ŁZA;Metafora i gra słowna;3;1.3;manual;0;0;0;0;3865;159;true
+2026-04-30T08:30:46.661Z;user92;NAPIWEK;Definicje słownikowe;7;3.3;manual;0;0;0;0;5205;184;true
+2026-04-30T08:30:56.166Z;user93;KRONOS;Wiedza ogólna / encyklopedyczna;6;2;manual;0;0;0;0;33927;156;true
+2026-04-30T08:31:02.655Z;user92;MARMOLADA;Definicje słownikowe;9;16;manual;8;0;1;0.11;8518;856;false
+2026-04-30T08:31:06.580Z;user92;LWICA;Metafora i gra słowna;5;16.8;manual;0;0;0;0;11610;142;true
+2026-04-30T08:31:11.224Z;user92;PIEKŁO;Metafora i gra słowna;6;4.6;manual;0;0;0;0;28446;251;true
+2026-04-30T08:31:15.491Z;user93;REPERACJA;Definicje słownikowe;9;19.3;hint;3;4;2;0.22;35923;937;false
+2026-04-30T08:31:18.964Z;user92;ZIARNO;Metafora i gra słowna;6;7.7;manual;3;0;0;0;33078;740;true
+2026-04-30T08:31:21.656Z;user92;DONALD;Nazwy własne i popkultura;6;2.7;manual;0;0;0;0;40822;128;true
+2026-04-30T08:31:24.148Z;user92;RĘCE;Metafora i gra słowna;4;2.5;manual;0;0;0;0;43522;192;true
+2026-04-30T08:31:26.601Z;user92;PITT;Nazwy własne i popkultura;4;2.5;manual;0;0;0;0;46003;202;true
+2026-04-30T08:31:26.718Z;user93;GOETHE;Wiedza ogólna / encyklopedyczna;6;14.8;manual;1;1;3;0.5;51625;693;false
+2026-04-30T08:31:44.723Z;user92;MAKARONIZM;Metafora i gra słowna;10;18.1;manual;9;0;3;0.3;48466;717;false
+2026-04-30T08:31:45.111Z;user93;NAGANO;Wiedza ogólna / encyklopedyczna;6;18.4;hint;11;10;6;1;66453;548;false
+2026-04-30T08:31:49.145Z;user93;RONDO;Definicje słownikowe;5;15.6;manual;0;1;0;0;73354;127;true
+2026-04-30T08:32:03.070Z;user93;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;13.9;manual;10;14;1;0.13;88914;309;false
+2026-04-30T08:32:09.811Z;user93;DNO;Definicje słownikowe;3;6.7;hint;0;0;3;1;102830;690;false
+2026-04-30T08:32:16.628Z;user93;WDECH;Definicje słownikowe;5;5.2;manual;0;0;0;0;111228;330;true
+2026-04-30T08:32:21.162Z;user93;RONIN;Wiedza ogólna / encyklopedyczna;5;4.5;hint;0;0;5;1;116384;412;false
+2026-04-30T08:32:31.414Z;user93;RĘCE;Metafora i gra słowna;4;2.8;manual;0;0;0;0;3076;351;true
+2026-04-30T08:32:49.326Z;user93;NAPIWEK;Definicje słownikowe;7;17.9;manual;4;6;1;0.14;5898;420;false
+2026-04-30T08:32:52.272Z;user93;DONALD;Nazwy własne i popkultura;6;2.9;manual;0;0;0;0;23809;185;true
+2026-04-30T08:33:03.536Z;user93;ŁZA;Metafora i gra słowna;3;1.6;manual;0;0;0;0;36379;319;true
+2026-04-30T08:33:06.447Z;user93;PITT;Nazwy własne i popkultura;4;2.9;manual;0;0;0;0;38013;149;true
+2026-04-30T08:33:09.764Z;user93;ZIARNO;Metafora i gra słowna;6;3.3;manual;0;0;0;0;40929;172;true
+2026-04-30T08:33:20.889Z;user93;MARMOLADA;Definicje słownikowe;9;11.1;hint;7;0;7;0.78;44246;472;false
+2026-04-30T08:33:33.918Z;user93;PIEKŁO;Metafora i gra słowna;6;18.1;hint;2;6;6;1;50257;616;false
+2026-04-30T08:33:44.324Z;user93;MAKARONIZM;Metafora i gra słowna;10;8.9;hint;0;0;10;1;69824;575;false
+2026-04-30T08:35:02.416Z;user95;NAGANO;Wiedza ogólna / encyklopedyczna;6;17.3;hint;6;6;6;1;3974;920;false
+2026-04-30T08:35:11.382Z;user95;DNO;Definicje słownikowe;3;1.6;manual;0;0;0;0;28616;228;true
+2026-04-30T08:35:21.854Z;user95;GOETHE;Wiedza ogólna / encyklopedyczna;6;10.4;hint;0;0;6;1;30251;1314;false
+2026-04-30T08:35:30.544Z;user95;WDECH;Definicje słownikowe;5;3;manual;0;0;0;0;46303;468;true
+2026-04-30T08:35:40.757Z;user95;AKIRA;Wiedza ogólna / encyklopedyczna;5;10.3;hint;0;0;5;1;49333;1114;false
+2026-04-30T08:36:09.296Z;user95;REPERACJA;Definicje słownikowe;9;16.2;hint;2;1;4;0.44;71925;1348;false
+2026-04-30T08:36:22.410Z;user95;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;17.5;manual;0;0;1;0.13;83722;558;false
+2026-04-30T08:36:31.084Z;user95;RONIN;Wiedza ogólna / encyklopedyczna;5;8.7;manual;0;0;2;0.4;101216;991;false
+2026-04-30T08:36:36.117Z;user95;RONDO;Definicje słownikowe;5;5;manual;0;0;0;0;109942;347;true
+2026-04-30T08:36:43.942Z;user95;KRONOS;Wiedza ogólna / encyklopedyczna;6;7.9;manual;0;0;2;0.33;114939;717;false
+2026-04-30T08:37:05.568Z;user95;MAKARONIZM;Metafora i gra słowna;10;8.4;manual;0;0;5;0.5;6386;729;false
+2026-04-30T08:37:12.722Z;user95;LWICA;Metafora i gra słowna;5;7.2;manual;0;0;0;0;14830;251;true
+2026-04-30T08:37:19.420Z;user95;PITT;Nazwy własne i popkultura;4;6.7;manual;0;0;0;0;22011;740;true
+2026-04-30T08:37:22.858Z;user95;DONALD;Nazwy własne i popkultura;6;3.5;manual;0;0;0;0;28675;195;true
+2026-04-30T08:37:27.002Z;user95;NAPIWEK;Definicje słownikowe;7;4.1;manual;0;0;0;0;32183;201;true
+2026-04-30T08:37:37.200Z;user95;ZIARNO;Metafora i gra słowna;6;3.2;manual;0;0;0;0;43250;192;true
+2026-04-30T08:37:43.941Z;user95;PIEKŁO;Metafora i gra słowna;6;6.7;hint;1;0;1;0.17;46472;596;false
+2026-04-30T08:37:57.830Z;user95;RĘCE;Metafora i gra słowna;4;6.6;manual;1;1;0;0;60523;748;true
+2026-04-30T08:38:08.668Z;user95;ŁZA;Metafora i gra słowna;3;27.2;manual;1;0;0;0;50719;6007;true
+2026-04-30T08:38:27.272Z;user95;MARMOLADA;Definicje słownikowe;9;60.2;manual;8;0;3;0.33;36333;3238;false
+2026-04-30T08:55:40.713Z;user98;GOETHE;Wiedza ogólna / encyklopedyczna;6;16.6;manual;0;0;3;0.5;2773;1626;false
+2026-04-30T08:55:47.814Z;user98;REPERACJA;Definicje słownikowe;9;7.1;manual;0;0;0;0;19416;153;true
+2026-04-30T08:56:00.994Z;user98;DNO;Definicje słownikowe;3;13.1;manual;2;1;1;0.33;26514;634;false
+2026-04-30T08:56:04.830Z;user99;AKIRA;Wiedza ogólna / encyklopedyczna;5;5.8;manual;3;4;0;0;2849;387;true
+2026-04-30T08:56:27.717Z;user98;NAGANO;Wiedza ogólna / encyklopedyczna;6;28.2;manual;15;1;5;0.83;38175;1112;false
+2026-04-30T08:56:33.807Z;user98;RONDO;Definicje słownikowe;5;29.7;manual;1;0;0;0;42834;5922;true
+2026-04-30T08:56:37.231Z;user99;RONDO;Definicje słownikowe;5;3.5;manual;1;1;0;0;37588;412;true
+2026-04-30T08:56:41.187Z;user99;WDECH;Definicje słownikowe;5;2.2;manual;0;0;0;0;42759;365;true
+2026-04-30T08:56:52.424Z;user98;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;18.6;manual;0;0;3;0.38;72523;972;false
+2026-04-30T08:56:55.638Z;user98;WDECH;Definicje słownikowe;5;3.2;manual;0;0;0;0;91117;184;true
+2026-04-30T08:57:01.016Z;user98;RONIN;Wiedza ogólna / encyklopedyczna;5;5.4;manual;0;0;1;0.2;94343;499;false
+2026-04-30T08:57:13.750Z;user98;KRONOS;Wiedza ogólna / encyklopedyczna;6;12.7;manual;6;0;1;0.17;99717;728;false
+2026-04-30T08:57:19.274Z;user98;AKIRA;Wiedza ogólna / encyklopedyczna;5;6.7;hint;1;1;1;0.2;111309;447;false
+2026-04-30T08:57:23.291Z;user99;NAGANO;Wiedza ogólna / encyklopedyczna;6;63.2;manual;0;0;0;0;23902;373;true
+2026-04-30T08:57:27.725Z;user98;RĘCE;Metafora i gra słowna;4;2.7;manual;0;0;0;0;2608;325;true
+2026-04-30T08:57:31.472Z;user98;LWICA;Metafora i gra słowna;5;3.8;manual;0;0;0;0;5290;175;true
+2026-04-30T08:57:34.633Z;user98;DONALD;Nazwy własne i popkultura;6;3.2;manual;0;0;0;0;9061;244;true
+2026-04-30T08:57:36.742Z;user98;PITT;Nazwy własne i popkultura;4;2.1;manual;0;0;0;0;12220;204;true
+2026-04-30T08:57:39.630Z;user98;ŁZA;Metafora i gra słowna;3;2.9;manual;0;0;0;0;14327;245;true
+2026-04-30T08:57:50.134Z;user98;MARMOLADA;Definicje słownikowe;9;10.5;manual;8;0;1;0.11;17214;512;false
+2026-04-30T08:57:56.864Z;user98;ZIARNO;Metafora i gra słowna;6;14.1;manual;0;0;0;0;20311;340;true
+2026-04-30T08:58:00.545Z;user99;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;103.1;manual;0;0;1;0.13;21352;743;false
+2026-04-30T08:58:01.407Z;user98;NAPIWEK;Definicje słownikowe;7;4.5;manual;0;0;0;0;34447;201;true
+2026-04-30T08:58:18.078Z;user98;MAKARONIZM;Metafora i gra słowna;10;16.7;manual;9;0;5;0.5;38992;697;false
+2026-04-30T08:58:21.304Z;user98;PIEKŁO;Metafora i gra słowna;6;3.2;manual;0;0;0;0;55665;151;true
+2026-04-30T08:58:23.021Z;user99;DNO;Definicje słownikowe;3;115.4;manual;5;5;1;0.33;31520;7879;false
+2026-04-30T08:58:41.066Z;user99;GOETHE;Wiedza ogólna / encyklopedyczna;6;139.6;manual;6;6;3;0.5;25250;5422;false
+2026-04-30T08:58:51.710Z;user99;KRONOS;Wiedza ogólna / encyklopedyczna;6;166.9;manual;0;0;2;0.33;8683;12264;false
+2026-04-30T08:58:59.706Z;user99;RONIN;Wiedza ogólna / encyklopedyczna;5;157.1;manual;0;0;4;0.8;26418;13398;false
+2026-04-30T08:59:11.206Z;user99;REPERACJA;Definicje słownikowe;9;148.6;manual;1;4;4;0.44;46438;2931;false
+2026-04-30T08:59:17.347Z;user99;PITT;Nazwy własne i popkultura;4;1.4;manual;0;0;0;0;4091;221;true
+2026-04-30T08:59:41.835Z;user99;RĘCE;Metafora i gra słowna;4;2.1;manual;0;0;0;0;27896;470;true
+2026-04-30T08:59:45.400Z;user99;NAPIWEK;Definicje słownikowe;7;3.6;manual;0;0;0;0;30014;314;true
+2026-04-30T08:59:48.295Z;user99;ŁZA;Metafora i gra słowna;3;2.9;manual;0;0;0;0;33603;228;true
+2026-04-30T08:59:51.702Z;user99;DONALD;Nazwy własne i popkultura;6;3.4;manual;0;0;0;0;36523;357;true
+2026-04-30T08:59:56.819Z;user99;PIEKŁO;Metafora i gra słowna;6;5.1;manual;0;0;0;0;39898;496;true
+2026-04-30T09:00:20.738Z;user99;LWICA;Metafora i gra słowna;5;63.4;manual;1;1;1;0.2;5527;647;false
+2026-04-30T09:00:31.985Z;user99;MARMOLADA;Definicje słownikowe;9;67.9;manual;9;3;2;0.22;12327;3194;false
+2026-04-30T09:00:41.949Z;user99;ZIARNO;Metafora i gra słowna;6;72.8;manual;0;0;3;0.5;17343;1174;false
+2026-04-30T09:00:49.332Z;user99;MAKARONIZM;Metafora i gra słowna;10;52.5;manual;0;0;9;0.9;45040;5414;false
+2026-05-01T10:03:16.134Z;user202;WDECH;Definicje słownikowe;5;2.5;manual;0;0;0;0;134389;398;true
+2026-05-01T10:03:21.073Z;user202;RONDO;Definicje słownikowe;5;4.9;manual;0;0;0;0;136921;460;true
+2026-05-01T10:04:02.249Z;user202;DNO;Definicje słownikowe;3;127.5;manual;3;0;1;0.33;55549;18054;false
+2026-05-01T10:04:41.454Z;user202;KRONOS;Wiedza ogólna / encyklopedyczna;6;122.8;manual;0;0;1;0.17;99439;923;false
+2026-05-01T10:04:53.176Z;user202;RONIN;Wiedza ogólna / encyklopedyczna;5;11.7;manual;4;4;1;0.2;222200;597;false
+2026-05-01T10:05:05.588Z;user202;AKIRA;Wiedza ogólna / encyklopedyczna;5;12.5;hint;2;1;2;0.4;233887;1037;false
+2026-05-01T10:05:19.774Z;user202;GOETHE;Wiedza ogólna / encyklopedyczna;6;15.9;manual;1;1;3;0.5;244642;951;false
+2026-05-01T10:05:39.229Z;user202;NAGANO;Wiedza ogólna / encyklopedyczna;6;138.2;hint;10;14;3;0.5;141868;4966;false
+2026-05-01T10:06:01.868Z;user202;MARMOLADA;Definicje słownikowe;9;13;manual;0;0;1;0.11;7551;1296;false
+2026-05-01T10:06:19.272Z;user202;ZIARNO;Metafora i gra słowna;6;17.4;manual;5;1;2;0.33;20516;1017;false
+2026-05-01T10:06:24.459Z;user202;PITT;Nazwy własne i popkultura;4;5.2;manual;0;0;0;0;37952;311;true
+2026-05-01T10:06:34.124Z;user202;RĘCE;Metafora i gra słowna;4;9.5;manual;1;0;0;0;43164;1232;true
+2026-05-01T10:06:48.010Z;user202;LWICA;Metafora i gra słowna;5;18.9;manual;0;0;1;0.2;47768;1269;false
+2026-05-01T10:07:03.360Z;user202;MAKARONIZM;Metafora i gra słowna;10;15.3;hint;0;0;10;1;66697;1058;false
+2026-05-01T10:07:10.866Z;user202;DONALD;Nazwy własne i popkultura;6;4;manual;0;0;0;0;85569;583;true
+2026-05-01T10:07:18.102Z;user202;NAPIWEK;Definicje słownikowe;7;7.1;manual;0;0;0;0;89563;511;true
+2026-05-01T10:07:27.766Z;user202;PIEKŁO;Metafora i gra słowna;6;9.7;manual;1;1;0;0;96699;785;true
+2026-05-01T10:07:34.018Z;user202;ŁZA;Metafora i gra słowna;3;6.3;manual;0;0;0;0;106447;425;true
+2026-05-01T10:36:28.866Z;user203;WDECH;Definicje słownikowe;5;8.6;manual;4;6;0;0;14525;534;true
+2026-05-01T10:36:41.252Z;user203;AKIRA;Wiedza ogólna / encyklopedyczna;5;12.4;manual;1;0;1;0.2;23078;1565;false
+2026-05-01T10:37:04.124Z;user203;RONDO;Definicje słownikowe;5;4;manual;0;0;0;0;54309;728;true
+2026-05-01T10:39:10.256Z;user203;DNO;Definicje słownikowe;3;32.4;manual;3;0;2;0.67;152043;6294;false
+2026-05-01T10:39:38.189Z;user203;MAKARONIZM;Metafora i gra słowna;10;10.6;hint;0;0;10;1;10846;1177;false
+2026-05-01T10:39:46.550Z;user203;PIEKŁO;Metafora i gra słowna;6;4.2;manual;0;0;0;0;25565;681;true
+2026-05-01T10:39:53.286Z;user203;PITT;Nazwy własne i popkultura;4;6.8;manual;0;0;0;0;29799;333;true
+2026-05-01T10:39:58.361Z;user203;ŁZA;Metafora i gra słowna;3;5.1;manual;0;0;0;0;36558;415;true
+2026-05-01T10:40:05.083Z;user203;LWICA;Metafora i gra słowna;5;6.7;manual;0;0;0;0;41616;516;true
+2026-05-01T10:40:12.152Z;user203;ZIARNO;Metafora i gra słowna;6;7.1;manual;0;0;0;0;48332;545;true
+2026-05-01T10:40:19.833Z;user203;MARMOLADA;Definicje słownikowe;9;7.7;manual;0;0;0;0;55424;474;true
+2026-05-01T10:40:25.722Z;user203;DONALD;Nazwy własne i popkultura;6;5.9;manual;0;0;0;0;63107;515;true
+2026-05-01T10:40:31.943Z;user203;NAPIWEK;Definicje słownikowe;7;6.2;manual;0;0;0;0;68966;518;true
+2026-05-01T10:40:37.783Z;user203;RĘCE;Metafora i gra słowna;4;5.9;manual;0;0;0;0;75197;699;true
+2026-05-02T12:40:12.462Z;user212;GOETHE;Wiedza ogólna / encyklopedyczna;6;9.9;manual;0;1;0;0;31587;262;true
+2026-05-02T12:40:15.507Z;user212;RONDO;Definicje słownikowe;5;3;manual;0;0;0;0;41485;202;true
+2026-05-02T12:40:36.535Z;user212;DNO;Definicje słownikowe;3;18.1;manual;0;0;0;0;47439;230;true
+2026-05-02T12:40:42.193Z;user212;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;5.7;manual;0;0;0;0;65539;430;true
+2026-05-02T12:40:49.096Z;user212;WDECH;Definicje słownikowe;5;6.9;manual;0;0;1;0.2;71201;499;false
+2026-05-02T12:41:08.904Z;user212;REPERACJA;Definicje słownikowe;9;19.8;manual;1;1;5;0.56;78095;1480;false
+2026-05-02T12:57:34.485Z;user213;AKIRA;Wiedza ogólna / encyklopedyczna;5;12;manual;0;0;4;0.8;5451;2042;false
+2026-05-02T12:58:00.707Z;user213;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;26.2;manual;7;2;3;0.38;17431;1009;false
+2026-05-02T12:58:18.502Z;user213;GOETHE;Wiedza ogólna / encyklopedyczna;6;19.6;manual;2;1;4;0.67;41828;1582;false
+2026-05-02T12:58:22.947Z;user213;RONDO;Definicje słownikowe;5;4.3;manual;0;0;0;0;61443;413;true
+2026-05-02T12:58:40.481Z;user213;NAGANO;Wiedza ogólna / encyklopedyczna;6;17.6;manual;2;0;2;0.33;65790;1560;false
+2026-05-02T12:58:48.751Z;user213;DNO;Definicje słownikowe;3;8.3;manual;0;0;0;0;83438;425;true
+2026-05-02T12:58:57.448Z;user213;REPERACJA;Definicje słownikowe;9;8.7;manual;0;0;0;0;91691;550;true
+2026-05-02T12:59:12.296Z;user213;KRONOS;Wiedza ogólna / encyklopedyczna;6;14.8;manual;3;2;1;0.17;100373;1018;false
+2026-05-02T12:59:28.143Z;user213;RONIN;Wiedza ogólna / encyklopedyczna;5;15.9;hint;0;0;5;1;115224;2592;false
+2026-05-02T12:59:34.701Z;user213;WDECH;Definicje słownikowe;5;2.5;manual;0;0;0;0;135170;421;true
+2026-05-02T13:01:42.655Z;user213;NAPIWEK;Definicje słownikowe;7;21.9;manual;5;6;0;0;104147;1357;true
+2026-05-02T13:01:47.570Z;user213;ŁZA;Metafora i gra słowna;3;4.9;manual;0;0;0;0;126137;475;true
+2026-05-02T13:01:52.259Z;user213;PITT;Nazwy własne i popkultura;4;4.7;manual;0;0;0;0;131017;513;true
+2026-05-02T13:02:00.323Z;user213;LWICA;Metafora i gra słowna;5;8;manual;0;0;0;0;135725;514;true
+2026-05-02T13:02:08.698Z;user213;PIEKŁO;Metafora i gra słowna;6;8.3;manual;0;0;0;0;143771;769;true
+2026-05-02T13:02:35.587Z;user213;MARMOLADA;Definicje słownikowe;9;26.9;manual;8;0;1;0.11;152112;1291;false
+2026-05-02T13:02:42.968Z;user213;ZIARNO;Metafora i gra słowna;6;24.4;manual;1;0;0;0;161967;648;true
+2026-05-02T13:02:46.665Z;user213;DONALD;Nazwy własne i popkultura;6;6.5;manual;0;1;0;0;183665;226;true
+2026-05-02T13:02:54.608Z;user213;RĘCE;Metafora i gra słowna;4;7.9;manual;1;0;0;0;190119;718;true
+2026-05-02T13:03:19.369Z;user213;MAKARONIZM;Metafora i gra słowna;10;26.3;manual;5;5;8;0.8;196488;975;false
+2026-05-02T22:27:55.118Z;user216;DNO;Definicje słownikowe;3;2.5;manual;0;0;0;0;57279;355;true
+2026-05-02T22:28:04.938Z;user216;KRONOS;Wiedza ogólna / encyklopedyczna;6;9.8;manual;0;0;2;0.33;59816;879;false
+2026-05-02T22:28:41.004Z;user216;WDECH;Definicje słownikowe;5;2.4;manual;0;0;0;0;103305;332;true
+2026-05-02T22:28:51.485Z;user216;RONDO;Definicje słownikowe;5;1.9;manual;0;0;0;0;114289;282;true
+2026-05-02T22:29:30.262Z;user216;NAPIWEK;Definicje słownikowe;7;2.9;manual;0;0;0;0;16123;367;true
+2026-05-02T22:29:36.685Z;user216;MARMOLADA;Definicje słownikowe;9;6.5;manual;0;0;0;0;19069;374;true
+2026-05-02T22:29:41.376Z;user216;ŁZA;Metafora i gra słowna;3;4.7;manual;0;0;0;0;25526;303;true
+2026-05-02T22:29:46.311Z;user216;PITT;Nazwy własne i popkultura;4;4.9;manual;0;0;0;0;30194;247;true
+2026-05-02T22:29:50.744Z;user216;RĘCE;Metafora i gra słowna;4;4.5;manual;0;0;0;0;35126;665;true
+2026-05-02T22:30:03.111Z;user216;DONALD;Nazwy własne i popkultura;6;2.3;manual;0;0;0;0;49680;303;true
+2026-05-02T22:30:09.431Z;user216;ZIARNO;Metafora i gra słowna;6;6.3;manual;1;0;0;0;51954;597;true
+2026-05-02T22:30:15.631Z;user216;PIEKŁO;Metafora i gra słowna;6;8.4;manual;0;0;0;0;56018;603;true
+2026-05-02T22:30:20.768Z;user216;LWICA;Metafora i gra słowna;5;5.1;manual;0;0;0;0;64460;336;true
+2026-05-03T05:30:00.464Z;user218;WDECH;Definicje słownikowe;5;15.2;manual;0;0;0;0;69722;3169;true
+2026-05-03T05:32:19.547Z;user218;RONDO;Definicje słownikowe;5;139.1;manual;9;16;0;0;84882;5556;true
+2026-05-03T05:32:45.435Z;user218;AKIRA;Wiedza ogólna / encyklopedyczna;5;152.1;manual;1;1;0;0;97677;2863;true
+2026-05-03T05:32:56.951Z;user218;DNO;Definicje słownikowe;3;16.7;manual;0;1;0;0;244695;1287;true
+2026-05-03T15:05:06.433Z;user219;RONDO;Definicje słownikowe;5;4.2;manual;1;2;0;0;1989;421;true
+2026-05-03T15:05:33.122Z;user219;MAGELLAN;Wiedza ogólna / encyklopedyczna;8;19.7;manual;6;1;4;0.5;13072;735;false
+2026-05-03T15:05:49.220Z;user219;REPERACJA;Definicje słownikowe;9;16.2;manual;1;2;6;0.67;32767;815;false
+2026-05-03T15:05:56.180Z;user219;DNO;Definicje słownikowe;3;6.9;manual;0;0;2;0.67;48967;1224;false
+2026-05-03T15:06:01.779Z;user219;KRONOS;Wiedza ogólna / encyklopedyczna;6;5.6;hint;0;0;6;1;55918;741;false
+2026-05-03T15:06:10.352Z;user219;WDECH;Definicje słownikowe;5;6.6;manual;0;0;0;0;63391;492;true
+2026-05-03T15:06:22.512Z;user219;GOETHE;Wiedza ogólna / encyklopedyczna;6;7.7;hint;1;1;7;1.17;74559;711;false
+2026-05-03T15:06:26.297Z;user219;RONIN;Wiedza ogólna / encyklopedyczna;5;6.6;hint;1;2;5;1;79488;934;false
+2026-05-03T15:06:38.237Z;user219;NAGANO;Wiedza ogólna / encyklopedyczna;6;91.8;hint;7;0;6;1;6174;6837;false
+2026-05-03T15:07:00.923Z;user219;MARMOLADA;Definicje słownikowe;9;17.5;manual;13;12;1;0.11;1731;428;false
+2026-05-03T15:07:05.196Z;user219;PITT;Nazwy własne i popkultura;4;18.1;manual;2;6;3;0.75;5358;2050;false
+2026-05-03T15:07:08.802Z;user219;DONALD;Nazwy własne i popkultura;6;3.6;manual;0;0;0;0;23507;273;true
+2026-05-03T15:07:18.050Z;user219;LWICA;Metafora i gra słowna;5;9.2;hint;1;1;6;1.2;27119;917;false
+2026-05-03T15:07:23.795Z;user219;NAPIWEK;Definicje słownikowe;7;8.6;manual;0;1;0;0;33560;419;true
+2026-05-03T15:07:28.653Z;user219;PIEKŁO;Metafora i gra słowna;6;4.9;manual;0;0;4;0.67;42118;612;false
+2026-05-03T15:07:32.365Z;user219;RĘCE;Metafora i gra słowna;4;3.7;manual;0;0;0;0;46982;480;true
+2026-05-03T15:07:39.537Z;user219;ŁZA;Metafora i gra słowna;3;7.2;manual;3;3;0;0;50684;430;true
+2026-05-03T15:07:46.431Z;user219;ZIARNO;Metafora i gra słowna;6;11.5;manual;2;4;3;0.5;53265;1055;false
+2026-05-03T15:07:54.510Z;user219;MAKARONIZM;Metafora i gra słowna;10;8.1;manual;1;1;4;0.4;64748;561;false
+2026-05-04T18:53:20.189Z;user222;GOETHE;Wiedza ogólna / encyklopedyczna;6;12.4;manual;0;0;3;0.5;7942;2488;false
+2026-05-04T18:54:19.149Z;user222;WDECH;Definicje słownikowe;5;2.7;manual;0;0;0;0;76790;387;true
+2026-05-04T18:54:25.092Z;user222;RONDO;Definicje słownikowe;5;6;manual;0;0;0;0;79451;404;true
+2026-05-04T18:54:49.289Z;user222;AKIRA;Wiedza ogólna / encyklopedyczna;5;17.3;manual;2;2;3;0.6;92302;1924;false
+2026-05-04T18:54:54.494Z;user222;DNO;Definicje słownikowe;3;5.1;manual;0;0;0;0;109620;411;true
+2026-05-04T18:56:03.714Z;user222;DONALD;Nazwy własne i popkultura;6;18.9;manual;1;1;0;0;18828;1053;true
+2026-05-04T18:56:24.784Z;user222;LWICA;Metafora i gra słowna;5;10.3;manual;0;1;0;0;48466;545;true
+2026-05-04T18:56:29.092Z;user222;PITT;Nazwy własne i popkultura;4;4.4;manual;0;0;0;0;58819;287;true
+2026-05-04T18:56:53.685Z;user222;MARMOLADA;Definicje słownikowe;9;10.4;manual;2;2;0;0;77312;756;true
+2026-05-04T18:57:03.321Z;user222;NAPIWEK;Definicje słownikowe;7;9.7;manual;1;1;0;0;87758;760;true
+2026-05-04T18:57:10.749Z;user222;ZIARNO;Metafora i gra słowna;6;7.3;manual;0;0;0;0;97436;436;true
+2026-05-05T06:59:49.119Z;user223;RONIN;Wiedza ogólna / encyklopedyczna;5;1.3;manual;0;0;0;0;15621;150;true
+2026-05-05T07:00:43.397Z;user223;RONDO;Definicje słownikowe;5;50.7;manual;0;0;0;0;20545;195;true
+2026-05-05T07:01:29.246Z;user223;KRONOS;Wiedza ogólna / encyklopedyczna;6;7.6;manual;0;0;0;0;109475;252;true
+2026-05-05T07:02:10.038Z;user223;AKIRA;Wiedza ogólna / encyklopedyczna;5;40.8;manual;0;0;0;0;117054;129;true
+2026-05-05T07:02:14.932Z;user223;WDECH;Definicje słownikowe;5;4.9;manual;0;0;0;0;157848;237;true
+2026-05-05T07:02:47.359Z;user223;DNO;Definicje słownikowe;3;178.2;manual;3;3;0;0;16929;21945;true
+2026-05-05T07:02:57.359Z;user223;PIEKŁO;Metafora i gra słowna;6;3.5;manual;1;1;0;0;2497;300;true
+2026-05-05T07:03:23.893Z;user223;ŁZA;Metafora i gra słowna;3;4.5;manual;1;2;0;0;27964;346;true
+2026-05-05T07:05:01.213Z;user223;MAKARONIZM;Metafora i gra słowna;10;28.2;manual;1;1;1;0.1;101663;973;false
+2026-05-05T07:05:08.198Z;user223;NAPIWEK;Definicje słownikowe;7;7;manual;0;0;0;0;129830;195;true
+2026-05-05T07:05:25.426Z;user223;ZIARNO;Metafora i gra słowna;6;17.2;manual;0;0;0;0;136815;190;true
+2026-05-05T07:05:45.231Z;user223;MARMOLADA;Definicje słownikowe;9;19.8;manual;6;7;0;0;154047;718;true
+2026-05-05T07:05:49.877Z;user223;DONALD;Nazwy własne i popkultura;6;4.6;manual;0;0;0;0;173834;134;true
+2026-05-05T07:06:04.543Z;user223;PITT;Nazwy własne i popkultura;4;14.7;manual;0;0;0;0;178476;205;true
